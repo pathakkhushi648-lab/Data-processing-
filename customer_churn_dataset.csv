@@ -1,0 +1,1001 @@
+CustomerID,Name,Age,Gender,Income,MembershipType,PurchaseAmount,Quantity,CustomerSatisfaction,WebsiteVisitsPerMonth,LastPurchaseDaysAgo,EmailSubscribed,PreferredPaymentMethod,City,State,Churn
+1,Brenda Roy,58,Male,23278,Gold,1262.21,3,2,44,280,No,Credit Card,Lake Rebecca,Hawaii,1
+2,Bobby Perez,19,Male,48657,Silver,2551.51,1,9,13,333,No,Debit Card,South Devinville,South Dakota,0
+3,Jennifer Huang,46,Female,126093,Basic,3806.1,3,7,22,143,No,Credit Card,Vickieland,New Mexico,1
+4,Marvin Harris Jr.,23,Female,32676,Gold,4245.1,10,5,3,236,No,Credit Card,East Donnaborough,Alaska,0
+5,Michael Davis,53,Female,128711,Gold,2907.89,12,2,3,339,No,Credit Card,Randyview,Nevada,1
+6,Lisa Fisher,32,Male,69823,Gold,2294.38,14,6,11,190,No,Credit Card,Port Davidburgh,North Dakota,0
+7,Amy Johnson,56,Male,90010,Silver,858.84,7,5,41,353,No,Credit Card,New Javier,Montana,0
+8,Lori King,32,Male,125518,Gold,2035.77,2,4,37,162,No,Net Banking,Noahfurt,Idaho,1
+9,Lisa Rice,59,Female,38726,Gold,741.17,12,9,35,135,No,Cash,Kathleenfort,New Mexico,0
+10,Megan Johnson,43,Female,48746,Silver,2572.16,2,1,8,79,No,Cash,West Allenshire,Indiana,0
+11,Ryan Malone,22,Female,70019,Premium,2669.12,9,1,44,59,No,UPI,West Jimmy,New Hampshire,0
+12,Kelsey Weeks,25,Female,76985,Silver,2295.93,12,5,33,92,Yes,UPI,Davidfurt,Arizona,0
+13,Charles White,58,Male,40032,Gold,3824.43,9,9,1,307,Yes,Credit Card,Lake Laurenmouth,Mississippi,0
+14,Jerome Krueger Jr.,41,Female,51385,Basic,1242.31,10,2,6,249,Yes,Debit Card,Petersonshire,New Jersey,0
+15,Mr. Richard Key,60,Female,144105,Silver,1362.03,14,10,28,109,Yes,UPI,East Davidfurt,Arizona,0
+16,John Velez,43,Female,77422,Premium,648.97,4,2,22,11,Yes,Cash,Wagnerville,Michigan,0
+17,Lisa Hunt,32,Male,29305,Basic,1183.26,15,1,22,37,No,Net Banking,Colemanport,South Carolina,0
+18,Melissa Martin,31,Male,114811,Premium,1252.84,8,7,13,49,No,UPI,Martinezside,Tennessee,1
+19,Jessica Bell,45,Female,81213,Basic,3383.15,11,2,4,207,Yes,Debit Card,Sullivanland,Vermont,0
+20,John Solis,30,Male,90292,Premium,743.9,3,5,30,128,Yes,Net Banking,Goldentown,Arkansas,0
+21,William Gentry,69,Male,26630,Basic,4846.53,15,4,11,209,Yes,Net Banking,New Jeremyview,South Dakota,1
+22,Joshua Andrade,21,Male,69672,Basic,4927.28,5,8,19,217,No,Debit Card,Port Thomaston,Nebraska,0
+23,Robert Hensley,30,Female,48534,Basic,2916.94,9,1,48,161,No,Cash,South Michael,South Dakota,1
+24,Linda Johnson,51,Male,27455,Basic,4264.15,2,10,5,346,No,Credit Card,Sarahchester,Minnesota,0
+25,Kristin Rose,54,Male,95880,Basic,3115.94,7,10,37,268,No,Debit Card,Briannashire,Wyoming,1
+26,Louis Valdez,60,Female,51285,Gold,2009.14,11,5,30,162,Yes,Credit Card,Port Jacob,Illinois,0
+27,William Moore,47,Male,29602,Silver,2554.13,3,6,5,126,Yes,Net Banking,West Kerryville,Maryland,0
+28,Joshua Stephens,52,Female,100173,Basic,3355.92,9,5,43,54,Yes,UPI,Williamton,North Carolina,0
+29,Jonathan Sims,25,Male,117310,Silver,1398.12,10,4,46,176,No,Cash,Lake John,Indiana,1
+30,Tiffany Carter,49,Female,138664,Basic,506.88,7,5,3,2,Yes,UPI,East Vincent,Florida,0
+31,Andrea Curry,28,Female,92309,Premium,2826.49,2,2,45,77,No,Cash,Adriennetown,Tennessee,0
+32,Austin Johnson,53,Male,76333,Silver,257.05,6,1,23,108,Yes,UPI,Danielleport,California,0
+33,Dana Johnson,67,Female,147642,Silver,4632.53,4,3,12,212,No,Net Banking,Port Katelynberg,Arkansas,1
+34,Jeremy Mack,69,Male,54970,Silver,3947.5,2,7,3,241,No,UPI,Steinland,Vermont,1
+35,Larry Reed,37,Male,49219,Basic,3317.16,7,6,18,36,No,UPI,South Michael,Ohio,0
+36,Derek Bailey,59,Female,109065,Gold,4699.22,2,5,12,298,No,Credit Card,Walshside,Washington,0
+37,Mallory Green,24,Female,65309,Gold,2210.15,9,2,25,296,Yes,Net Banking,Monicaland,New York,1
+38,Haley Bailey,18,Male,67739,Premium,396.37,11,6,40,161,Yes,UPI,Lake Erica,Alabama,0
+39,John Stephens,50,Female,107410,Premium,1664.61,12,5,36,66,No,Debit Card,Port Amber,Delaware,0
+40,Cheryl Edwards,57,Female,73225,Basic,1554.18,4,7,38,311,No,Net Banking,Eugenetown,Ohio,0
+41,Charles Cisneros,46,Male,87000,Premium,3978.99,13,3,43,44,No,Credit Card,Karenfort,Illinois,1
+42,Christine Kelly,70,Male,108184,Gold,1161.97,4,3,2,24,No,Cash,Jenniferburgh,South Carolina,1
+43,Whitney Daniels,67,Male,79692,Premium,4436.38,10,4,46,357,No,Debit Card,Johnsonstad,Iowa,1
+44,Heather Mahoney,27,Male,137002,Basic,3903.18,4,3,45,266,Yes,Credit Card,New Toddborough,Indiana,1
+45,Robert Leon,47,Male,125043,Premium,3354.51,9,10,21,227,No,Cash,West Davidmouth,Illinois,0
+46,Joshua Maldonado,46,Male,117472,Premium,2277.85,13,4,41,142,No,Debit Card,Campbellton,Connecticut,0
+47,Stephen Kennedy,35,Female,30155,Gold,1210.74,6,6,35,42,Yes,Net Banking,Alexishaven,Arkansas,0
+48,Sara Lopez,62,Male,112591,Silver,367.93,7,6,35,239,Yes,Net Banking,South Shelley,South Carolina,0
+49,Emily Smith,42,Male,132293,Premium,2411.05,6,5,49,200,No,Cash,Callahanbury,Mississippi,0
+50,Christopher Juarez,65,Male,83993,Silver,1401.03,8,1,25,173,No,Debit Card,Penafort,Vermont,0
+51,Kristen Weiss,47,Male,148545,Basic,4539.3,10,10,43,14,No,Debit Card,Jenniferport,Kansas,1
+52,David Gomez,47,Male,26590,Gold,1926.56,4,8,21,173,No,UPI,Richardsonchester,Louisiana,0
+53,Jennifer Roberts,66,Female,53065,Basic,2378.02,12,9,4,180,Yes,Credit Card,New Jamiehaven,Nebraska,1
+54,Erika Morris,66,Male,144467,Silver,1036.84,1,10,10,123,Yes,Cash,Terrencemouth,Colorado,0
+55,Rachel Watkins,31,Female,111680,Gold,3846.15,3,10,39,59,Yes,UPI,Brentport,Oklahoma,0
+56,Jack Brown,24,Male,141751,Gold,2900.19,15,7,26,102,Yes,Credit Card,New Steventown,Rhode Island,1
+57,Andrew Edwards,62,Female,131449,Basic,3991.32,10,1,23,273,No,Credit Card,Marcfurt,South Dakota,1
+58,Amy Dickerson,50,Female,21658,Premium,4120.54,2,7,24,326,No,Debit Card,Lake Daltonhaven,South Dakota,0
+59,Jose Pearson,45,Male,116180,Gold,3098.77,15,9,50,248,No,UPI,Virginialand,New Mexico,0
+60,Crystal Weaver,33,Male,56559,Premium,1257.12,8,10,40,343,Yes,Net Banking,West Russell,Oregon,0
+61,Jill Higgins,38,Male,83904,Silver,1806.38,5,6,18,306,No,Cash,West Morgan,Idaho,0
+62,James Baker,18,Male,31221,Silver,3614.37,8,9,49,124,No,Net Banking,Josestad,Iowa,0
+63,Larry Nguyen,68,Male,32196,Gold,1146.9,12,4,20,340,No,Cash,Lake Glendafort,Indiana,0
+64,Shawn Horton,51,Female,75771,Gold,1791.46,8,5,20,129,Yes,UPI,Amandachester,Virginia,0
+65,Seth Kelly,25,Male,45105,Silver,3706.09,5,10,49,269,Yes,Debit Card,Spencefurt,Oklahoma,0
+66,Robert Clark,36,Male,67301,Silver,1546.22,12,9,9,141,Yes,Cash,Snyderborough,Utah,1
+67,Stacy Thomas,36,Male,103606,Premium,557.81,1,10,19,241,No,Debit Card,North Margaret,Rhode Island,0
+68,Savannah Lowery,21,Female,143347,Premium,614.73,2,7,32,38,Yes,Debit Card,West Danaborough,Kansas,0
+69,Lori Bailey,27,Female,31164,Silver,636.34,13,7,39,306,Yes,Cash,Cookton,Michigan,0
+70,Tim Silva,42,Female,139079,Premium,1521.9,10,7,20,292,Yes,Debit Card,New Hector,Texas,0
+71,Jennifer Alexander,58,Male,54687,Basic,827.43,3,9,5,81,No,Cash,East Catherinestad,Nebraska,1
+72,Nicholas Rogers,48,Female,24278,Silver,1476.12,5,8,5,352,No,Cash,Michaelberg,Montana,1
+73,Stephen Rojas,60,Male,75723,Basic,2745.58,11,3,18,73,Yes,UPI,New Benjaminmouth,Washington,1
+74,Ernest Brown,56,Female,77560,Basic,2370.05,5,7,18,257,No,Credit Card,Josefurt,New Mexico,0
+75,Kyle Jackson,56,Male,136578,Premium,3685.94,10,5,2,47,Yes,UPI,Jonesburgh,Connecticut,0
+76,Kevin Murphy,54,Male,120022,Silver,2378.98,11,8,18,93,No,Net Banking,Craigmouth,Ohio,0
+77,Daniel Carter,23,Female,65607,Premium,1699.88,11,2,11,169,No,UPI,Rochaberg,Nebraska,0
+78,Alexis Vang,60,Female,126635,Basic,2301.39,6,5,21,60,No,Cash,Hullmouth,Nevada,0
+79,Marc Green,70,Male,106200,Premium,2095.58,4,9,24,319,No,Credit Card,South Annaborough,Oregon,0
+80,Paul Garrison,31,Female,91987,Silver,4641.98,8,8,8,15,Yes,Debit Card,Millermouth,North Carolina,0
+81,Glenda Walker,37,Male,92384,Premium,511.39,14,2,30,61,Yes,Net Banking,Fletcherchester,Wyoming,0
+82,Lauren Marshall,63,Female,86698,Gold,2106.68,8,8,16,234,No,Debit Card,Patriciabury,Pennsylvania,0
+83,Veronica Harris,56,Male,133249,Basic,1417.42,13,7,22,260,Yes,UPI,Fischerport,Illinois,1
+84,Renee Blake,64,Female,129769,Premium,4333.04,8,9,31,177,No,Net Banking,Collinsfort,Alaska,0
+85,Michael Ramirez,38,Male,148552,Silver,2880.4,4,7,3,163,No,Net Banking,Tamaratown,Nebraska,0
+86,Linda Patterson,60,Male,84923,Basic,674.92,10,6,7,226,No,Credit Card,Wrightbury,Idaho,1
+87,Christopher Lopez,64,Male,73736,Silver,420.4,13,5,22,320,Yes,UPI,Michelleview,Utah,0
+88,Amber Becker,61,Female,145060,Gold,3152.66,15,8,35,19,Yes,UPI,East Judymouth,New Mexico,0
+89,Stephanie Larson,32,Male,76881,Basic,3813.83,12,2,29,86,Yes,Credit Card,West Kristinafort,New Jersey,0
+90,Jessica Watson,38,Male,58452,Gold,1905.46,3,4,34,211,Yes,Debit Card,South Dominiquemouth,California,0
+91,Michelle Lawrence,29,Male,99887,Premium,3117.57,4,8,38,74,No,Net Banking,Carlsontown,Iowa,0
+92,Tracy Gonzalez,34,Male,137821,Premium,4510.99,11,9,11,38,No,Cash,Fernandezberg,Ohio,0
+93,Amanda Ochoa,37,Female,110480,Gold,2311.34,5,4,25,248,No,Cash,New Vanessa,Arizona,1
+94,Francisco Robinson,40,Female,111655,Gold,158.6,14,7,18,5,Yes,Cash,Mirandabury,Maine,0
+95,Maria Luna,65,Female,129161,Gold,3889.92,4,10,23,113,No,Debit Card,Brianmouth,Maryland,0
+96,Victor Hayes,58,Male,138410,Basic,1579.22,8,1,38,187,Yes,UPI,North Nataliebury,Ohio,0
+97,Ann Mason,38,Female,43021,Silver,704.19,9,6,34,257,Yes,UPI,Floresburgh,South Dakota,0
+98,John Garcia,70,Female,146796,Gold,3745.47,6,2,30,39,Yes,Net Banking,Mcgrathborough,Oregon,1
+99,Melissa Koch DDS,69,Female,31836,Premium,118.9,9,2,30,189,No,Cash,Lake Rebecca,New Mexico,0
+100,Michele Wilkins,42,Female,34201,Silver,2383.81,10,9,21,313,Yes,Net Banking,Adamville,Missouri,1
+101,Jessica Montoya,62,Female,105097,Premium,627.55,1,1,20,253,Yes,Cash,Jorgefurt,Oregon,1
+102,Laurie Alvarez,26,Female,79459,Gold,3368.91,12,9,27,301,Yes,Net Banking,Lake Heatherview,Maine,0
+103,Deanna Bell,59,Male,129273,Premium,3097.48,5,1,45,190,No,Debit Card,Marcusbury,Utah,1
+104,James Brown,41,Male,148572,Gold,2745.11,11,6,4,204,Yes,Net Banking,North Kimberly,West Virginia,1
+105,Brandon Thornton,23,Male,104109,Basic,300.36,6,4,9,290,Yes,Cash,Lake Laurenberg,Connecticut,1
+106,Zachary Powell,31,Male,63064,Silver,3953.79,10,1,18,75,No,Debit Card,New Andrewbury,South Dakota,0
+107,Lance Ramos,25,Male,37275,Basic,1823.3,13,4,38,166,No,Credit Card,Richardmouth,Iowa,1
+108,Brittney Smith,26,Female,88955,Basic,3741.04,8,8,50,186,Yes,Net Banking,East Daniellebury,Georgia,0
+109,Bradley Aguirre,50,Male,143917,Basic,3649.85,15,9,20,235,Yes,Credit Card,West Michele,North Dakota,0
+110,Krista Murphy,48,Female,75872,Basic,2476.83,15,8,5,42,Yes,Credit Card,Lake Brandon,Florida,0
+111,Kim Chen,26,Female,101830,Gold,1935.48,10,9,19,233,No,Credit Card,Matthewfort,Mississippi,0
+112,Ashley Garcia,68,Male,131777,Silver,2178.85,15,4,27,174,No,Net Banking,Morrismouth,Maine,0
+113,Peter Lane,64,Male,60966,Premium,1596.99,5,6,10,352,Yes,Credit Card,North Catherine,Vermont,0
+114,Kelly Williams,23,Male,76606,Basic,3735.72,6,3,36,31,No,Credit Card,Williamstown,Rhode Island,0
+115,James Pham,44,Female,134505,Premium,4347.06,12,1,19,308,Yes,Cash,Welchland,Texas,1
+116,David Charles,50,Male,40280,Premium,1160.01,2,6,36,189,No,Cash,North Bryanborough,New Hampshire,1
+117,Jeremy Davis,32,Female,130776,Basic,3064.52,11,5,2,93,No,UPI,Lake Michelle,Florida,1
+118,Renee Hayes,40,Male,43777,Silver,2853.29,7,2,10,325,Yes,Cash,Harrisborough,South Dakota,0
+119,Krista Goodwin,31,Female,75028,Premium,1737.44,6,5,47,167,Yes,Credit Card,Gabrielton,Rhode Island,0
+120,Jamie Simmons,27,Male,118885,Basic,3386.15,5,8,43,218,No,Net Banking,Santiagostad,California,1
+121,James Martin,35,Male,118951,Basic,1758.61,2,5,44,348,No,Credit Card,North Johnmouth,Kansas,0
+122,Miss Traci Cook,32,Female,149033,Basic,88.05,5,4,50,71,No,UPI,Tonyville,New Mexico,0
+123,Katherine Walker,25,Male,85193,Premium,919.69,7,9,46,118,No,Credit Card,Websterbury,Massachusetts,0
+124,Kyle Mcknight,43,Male,77176,Basic,2325.78,2,6,37,220,No,UPI,New Leslie,New Hampshire,0
+125,Hannah Fry,25,Female,22733,Gold,900.77,10,8,45,186,Yes,Debit Card,Sarahberg,Arkansas,1
+126,Jamie Reed,45,Female,88676,Basic,2009.05,5,6,15,171,Yes,Cash,East Patrickmouth,Illinois,0
+127,Carolyn Banks,58,Male,89547,Silver,4534.32,6,6,47,331,Yes,Credit Card,Millerfurt,New Jersey,0
+128,Steve Brown,27,Female,45856,Silver,3031.87,13,2,12,322,No,Cash,Valdezton,California,1
+129,Patricia Hartman,59,Female,133278,Gold,797.24,2,8,29,324,No,Cash,Palmermouth,Connecticut,0
+130,Carla Castro,21,Female,86497,Basic,1586.52,8,1,4,189,Yes,Credit Card,Port Sandra,Oregon,0
+131,Kristy Holland,57,Female,80648,Basic,2276.18,13,10,42,97,No,Cash,Coxstad,Nevada,0
+132,Jennifer Reed,27,Male,79050,Basic,4064.29,14,6,46,44,Yes,Credit Card,Lindamouth,Maine,0
+133,Joseph Cervantes,33,Female,149890,Premium,2644.14,10,3,24,191,No,Net Banking,South Danielview,Delaware,0
+134,Lauren Mccarthy,67,Female,108984,Basic,3956.67,11,6,5,169,No,UPI,Andradestad,Rhode Island,1
+135,Connie Johnson,34,Male,63694,Basic,2934.56,3,6,20,336,No,Debit Card,Williamsberg,Arizona,0
+136,Taylor Medina,56,Male,60577,Premium,3235.29,6,3,43,360,Yes,Net Banking,Port Heather,Ohio,0
+137,Katherine Medina,50,Female,22389,Gold,1578.89,4,6,50,249,Yes,Debit Card,North Timothyfurt,Missouri,1
+138,Thomas Allen,22,Female,130680,Basic,2563.06,9,9,3,339,Yes,Cash,Marieburgh,Maryland,1
+139,Daniel Johnson,42,Male,41266,Silver,4165.16,13,10,11,225,No,Debit Card,Jamesburgh,North Dakota,1
+140,Lisa Dixon,46,Female,118617,Premium,1208.31,4,5,31,100,No,Net Banking,Port Bradleychester,Minnesota,0
+141,Deborah Ruiz,67,Female,121990,Premium,2539.39,7,3,13,310,No,Credit Card,Christinaland,South Dakota,1
+142,Dale Riddle,59,Female,134572,Gold,2794.98,2,9,8,146,Yes,UPI,Bauerside,Texas,1
+143,Anna Robinson,46,Male,128926,Premium,503.98,15,4,29,179,No,Credit Card,Lake Royport,Alaska,0
+144,Brett Cook,43,Female,50903,Premium,4972.9,6,4,2,164,No,Debit Card,Castillomouth,Utah,0
+145,Maureen Mcclure,26,Male,57601,Premium,3495.56,3,8,29,316,Yes,Credit Card,Williamsborough,Nebraska,1
+146,Zachary Smith,34,Male,129440,Silver,2766.58,12,10,34,217,No,Debit Card,Franklinmouth,New Jersey,1
+147,Robert Mccormick MD,37,Male,26258,Silver,2128.14,13,10,30,33,No,Cash,Jenniferbury,Nevada,0
+148,Wendy Powers,52,Male,102831,Silver,3606.79,5,7,1,315,No,Debit Card,Suzannehaven,North Carolina,0
+149,Rodney Malone,60,Male,88614,Gold,385.01,9,9,33,260,No,Net Banking,Fullerview,North Dakota,0
+150,Nicole Obrien,20,Female,148586,Gold,1305.57,1,6,5,177,Yes,Cash,Michaeltown,New Hampshire,0
+151,Cassandra Kerr,65,Female,37486,Basic,1793.88,6,3,50,351,No,Debit Card,West Sandraton,New Jersey,1
+152,Amanda Duffy,69,Male,28270,Premium,233.07,4,1,13,22,No,Cash,Howemouth,North Dakota,0
+153,Alex Thompson,43,Female,53202,Basic,3778.79,4,5,23,25,No,UPI,Brentfort,New Hampshire,0
+154,Lisa Parker,25,Female,77272,Premium,3729.37,15,7,22,96,No,UPI,Craigfurt,Colorado,0
+155,Christopher Phillips,69,Female,125008,Basic,3649.05,2,7,39,93,No,Credit Card,Watkinschester,Nevada,0
+156,William Cox,23,Female,106628,Gold,1567.15,10,7,11,354,No,Credit Card,Jonesborough,Oregon,0
+157,Matthew Robbins,64,Female,100589,Premium,1409.05,13,1,5,344,No,Cash,New Laura,Virginia,0
+158,Jordan Williams,69,Male,144884,Basic,756.76,10,8,3,65,No,UPI,East Susan,Oklahoma,1
+159,Ashley Harvey,42,Male,99310,Silver,3411.36,6,6,29,40,No,Net Banking,Pamelatown,Wisconsin,0
+160,Richard Rush,38,Female,52717,Basic,178.27,3,8,34,199,Yes,UPI,Samuelmouth,Ohio,0
+161,Sarah Gonzales,67,Female,112279,Premium,1112.12,10,5,45,252,Yes,Credit Card,Haleyland,Pennsylvania,1
+162,Juan Richardson,46,Male,137791,Premium,4986.45,13,6,43,178,No,UPI,Michaeltown,Maine,0
+163,Jeffrey Green,28,Male,124031,Gold,2568.34,2,4,9,122,Yes,UPI,West Stevenland,West Virginia,0
+164,John Wilson,53,Female,81263,Silver,3079.14,2,2,20,204,No,Cash,Marshallville,Louisiana,0
+165,Kevin Ochoa,44,Female,127916,Basic,670.37,6,2,29,239,No,Debit Card,Kayleechester,Massachusetts,1
+166,Jeffrey Hansen,67,Male,120634,Silver,2191.46,15,1,8,266,Yes,Debit Card,Lawrencefurt,Montana,1
+167,Ian Blankenship,38,Male,65353,Gold,4237.37,5,4,41,283,No,Cash,South Michelle,Idaho,1
+168,Robert Santiago,52,Male,85873,Silver,2979.45,10,3,11,338,No,Cash,Lake Crystalton,Connecticut,0
+169,Kevin Mccoy,20,Male,30646,Basic,4745.31,13,10,17,334,No,Cash,Sheaside,Virginia,1
+170,Melinda Hall,58,Male,85278,Gold,3227.44,5,8,16,351,No,Credit Card,Jenniferport,Massachusetts,0
+171,Alexandra Reed,62,Male,40719,Premium,2107.33,8,4,22,311,No,UPI,South Katie,North Carolina,1
+172,Danielle Foley,43,Male,119701,Gold,2599.15,2,6,16,239,No,Debit Card,Lake Megan,Louisiana,1
+173,Marvin Nguyen,27,Male,26632,Gold,4729.66,14,10,27,128,Yes,UPI,Lake Katherinehaven,Iowa,0
+174,Kristen Williams,54,Female,44881,Silver,2516.41,9,8,32,158,Yes,Net Banking,New Evelyn,Massachusetts,0
+175,Amanda Owens,50,Female,146705,Silver,1114.96,6,1,4,145,No,UPI,New Ericville,Ohio,0
+176,Sierra Boyd,52,Male,131040,Basic,2183.09,15,5,47,188,No,Credit Card,Joneshaven,Illinois,0
+177,Nicholas Ruiz,43,Male,94747,Silver,1844.49,5,2,25,259,No,Cash,Lake Juliaview,Texas,1
+178,Steven Ellis,61,Male,36864,Basic,1999.82,13,6,36,188,Yes,Cash,Earlside,Montana,0
+179,David Robertson,50,Female,85546,Basic,274.25,3,6,31,266,Yes,UPI,Thomasfort,Tennessee,1
+180,Virginia Rojas,57,Female,41299,Premium,4953.55,12,5,38,173,No,Cash,Jasmineberg,Nevada,0
+181,Tanya Coleman,37,Female,126921,Basic,1873.37,11,2,27,299,Yes,Cash,North Peter,Connecticut,1
+182,John Parker,48,Female,146755,Silver,3620.93,10,8,11,269,No,Debit Card,North Daltonton,Wyoming,0
+183,Megan Reeves,70,Male,24138,Basic,994.38,8,6,27,78,Yes,Net Banking,Port Wayne,South Carolina,0
+184,Ethan Russell,50,Female,134401,Basic,3543.59,9,4,36,167,No,Cash,East Brian,Nebraska,0
+185,Justin Jefferson,42,Female,145394,Silver,2325.33,9,6,35,182,No,Cash,West Isaac,New Hampshire,0
+186,Sabrina Noble,48,Male,145480,Silver,1431.08,5,4,20,148,No,UPI,Greggton,Pennsylvania,0
+187,Johnny Osborn,48,Female,93464,Gold,1474.56,10,9,25,203,Yes,UPI,Port Lauramouth,Virginia,0
+188,Jennifer Crawford,20,Female,145214,Basic,1764.5,8,5,48,246,No,Cash,South Stevenland,Connecticut,1
+189,Stephanie Kline,62,Female,37992,Basic,3097.6,10,4,16,26,Yes,Debit Card,New Richardbury,South Carolina,0
+190,Matthew Frey,21,Male,74172,Gold,3600.92,2,3,1,282,Yes,Net Banking,South Susanburgh,New York,0
+191,Logan Small,59,Female,82580,Silver,3791.76,5,6,19,331,Yes,Cash,Crossbury,Florida,1
+192,Sarah Peterson,32,Male,139698,Silver,2118.53,14,3,3,204,Yes,UPI,Fletcherfort,Idaho,0
+193,Brandi Fisher,20,Male,59110,Basic,4645.85,6,5,30,329,No,Debit Card,New Troy,Kentucky,0
+194,Tracy Williams,50,Female,55761,Silver,4053.63,6,3,47,235,Yes,Credit Card,South Alexaport,Kansas,0
+195,Susan Mendoza,65,Female,123647,Gold,2860.52,13,4,12,313,No,Net Banking,Brittanyshire,Maine,0
+196,Christine Harding,50,Female,31368,Premium,3362.82,3,3,31,166,Yes,UPI,Robbinstown,North Carolina,0
+197,Kathryn Bauer,42,Male,78554,Gold,4772.47,5,10,47,294,No,Debit Card,Joyborough,Arizona,1
+198,Laura Martinez,21,Male,81000,Gold,840.6,11,9,46,160,No,UPI,South Anthony,Idaho,0
+199,Joshua Harrison,57,Male,48721,Silver,2417.0,8,10,24,213,No,Cash,Burgessmouth,Montana,0
+200,Calvin Castro,69,Male,119858,Silver,3417.69,10,2,34,229,No,Credit Card,South Spencer,Oregon,0
+201,Angela Bowman,54,Male,28094,Silver,2884.87,3,3,21,267,Yes,Cash,Scottview,Hawaii,1
+202,Ricardo Bell,49,Male,137819,Premium,4053.03,8,3,33,213,Yes,Cash,Lake Chelseahaven,South Carolina,1
+203,Anthony Powell,47,Female,114801,Basic,2009.95,14,1,48,112,Yes,Net Banking,South Curtis,Alaska,0
+204,Amber Lane,40,Male,90931,Basic,4676.18,2,8,3,147,Yes,Net Banking,Port Carlos,Hawaii,0
+205,Gabriel Taylor,41,Female,78790,Premium,1909.45,11,9,9,335,Yes,Debit Card,Richardland,Indiana,0
+206,James Hayden,52,Female,89316,Silver,3652.9,4,1,49,12,No,Cash,East Jenniferside,Maryland,0
+207,Melanie Moore,45,Female,127919,Silver,1275.18,6,3,18,97,Yes,Credit Card,Martinezchester,Wyoming,0
+208,Taylor Johnson,69,Female,100599,Basic,1241.3,2,2,39,18,Yes,Debit Card,Randolphland,Texas,1
+209,Andrea Gillespie,65,Male,72725,Premium,1209.98,4,1,9,258,Yes,Cash,New Stephanie,Georgia,0
+210,Erik Dalton,38,Female,51051,Gold,4387.48,11,9,15,212,Yes,Cash,Lunafort,Vermont,0
+211,Jennifer Jenkins,55,Male,102050,Premium,2801.46,1,6,42,344,No,Net Banking,New Kaitlynburgh,Hawaii,0
+212,Melissa Flores,44,Male,59306,Premium,960.2,9,8,16,116,Yes,Net Banking,Anthonyton,Kansas,0
+213,Brian Williams,21,Female,146849,Premium,2808.57,3,7,16,131,Yes,Net Banking,Harmontown,Iowa,0
+214,Rebecca Stokes,41,Male,90206,Silver,305.11,7,10,39,21,Yes,Cash,East Michael,South Carolina,0
+215,Anthony Smith,64,Male,82835,Silver,4353.9,6,5,1,109,Yes,Net Banking,South Michaelville,Oklahoma,0
+216,Eric Cochran,33,Male,71987,Silver,2782.79,13,5,25,239,No,UPI,Port Kristin,Arizona,0
+217,Donna Brown,34,Female,87215,Premium,2356.72,13,8,49,164,No,UPI,Jenniferport,Rhode Island,0
+218,Casey May,44,Male,93731,Silver,3719.2,1,5,36,300,No,UPI,East Tinamouth,Utah,0
+219,Ryan Gay,27,Male,63236,Silver,1930.21,14,4,32,282,No,UPI,Bushshire,Colorado,0
+220,Stephanie Baker,66,Female,146682,Premium,2331.1,12,6,11,72,No,Debit Card,Port Julie,Vermont,0
+221,David Lee,52,Male,88674,Basic,4203.39,2,1,49,4,Yes,Credit Card,Orrmouth,Connecticut,1
+222,David Scott,63,Male,21198,Silver,2553.38,6,1,40,327,No,Net Banking,East Sarahland,Missouri,0
+223,Jeanne Martin,19,Male,89758,Premium,108.66,9,5,35,147,No,Debit Card,Lake Alexiston,Maryland,1
+224,Brittany Houston,24,Male,88732,Silver,1242.8,10,9,17,182,No,Credit Card,North Jesse,Georgia,1
+225,David Olson,41,Female,80161,Silver,4951.65,4,5,44,42,Yes,Credit Card,East Samuelborough,Tennessee,0
+226,Troy Gilmore,43,Female,69436,Premium,327.77,1,3,6,256,No,Cash,New Jeffreytown,Colorado,0
+227,Taylor Griffin,24,Male,50115,Silver,4511.3,12,10,31,139,Yes,UPI,Lake Jason,California,1
+228,Michael Barr,52,Male,43508,Gold,127.51,4,10,10,365,Yes,UPI,Maryton,Pennsylvania,0
+229,Brian Soto,28,Male,94277,Premium,3401.32,9,6,25,72,Yes,Cash,Lake Cassie,Rhode Island,0
+230,Richard Hamilton,65,Female,27038,Basic,2213.59,14,2,22,310,No,UPI,New Andrewport,Alabama,0
+231,Ryan Mueller,19,Female,122701,Premium,2478.49,6,9,25,222,No,Credit Card,Marshallmouth,Louisiana,1
+232,William Herrera,67,Female,124602,Silver,3579.89,2,5,10,195,Yes,Net Banking,Angelaborough,Massachusetts,0
+233,Sarah Good,38,Female,33965,Basic,75.72,5,8,24,139,Yes,Debit Card,South Lisamouth,Arkansas,1
+234,Joseph Stafford,45,Female,93005,Premium,561.3,2,6,36,48,No,Net Banking,Rebeccamouth,Rhode Island,0
+235,Norman Perez,18,Female,74238,Premium,3906.89,12,9,16,293,No,Debit Card,Lake Jasonshire,Connecticut,0
+236,Mark Scott,26,Female,59469,Gold,2490.96,2,3,28,142,No,Credit Card,East Mitchellside,New Hampshire,0
+237,Cynthia Harris,41,Female,143761,Silver,3618.45,8,10,40,101,Yes,UPI,East Zacharyberg,New Mexico,0
+238,Jennifer Murillo,18,Female,63544,Premium,4030.18,6,8,22,221,Yes,UPI,East Kristenchester,New Hampshire,0
+239,Edward Cook,38,Male,82784,Gold,929.3,7,6,19,356,Yes,UPI,East Stephenmouth,Rhode Island,0
+240,Stephanie Wade,42,Female,127019,Premium,1856.83,15,10,13,304,Yes,Cash,Hudsonchester,New York,0
+241,Thomas Allen,19,Female,143597,Silver,2220.35,5,2,27,345,No,Debit Card,Brittanyport,Idaho,1
+242,Dawn Henry,34,Male,113747,Premium,3955.93,2,8,39,246,No,Cash,West Devin,Washington,0
+243,Joseph Weaver,20,Female,111964,Basic,591.38,4,6,11,332,No,UPI,Harrisonmouth,California,0
+244,Cynthia Rogers,68,Female,33886,Basic,538.1,4,9,48,266,Yes,Net Banking,Lake Michelleton,Alaska,0
+245,Christopher Lawson,41,Female,80694,Silver,1757.59,1,8,7,152,Yes,Credit Card,Johnville,North Carolina,0
+246,Chloe Lee,64,Male,65656,Gold,1748.18,13,4,34,248,Yes,Net Banking,Lake Larry,North Carolina,1
+247,Destiny Cardenas,64,Female,61800,Basic,1536.31,13,2,2,176,Yes,Debit Card,Lake Stephenland,Kansas,0
+248,Gregory Nelson,51,Male,92339,Silver,1688.4,7,8,15,208,Yes,Net Banking,Kelseyborough,Alabama,0
+249,David Lewis,43,Male,116650,Silver,2275.4,7,7,1,361,No,Credit Card,Johnfurt,Maryland,1
+250,Anthony Robinson,54,Male,124792,Silver,1860.68,4,8,8,135,No,Cash,Mcdanielview,New York,0
+251,Jerry Barrera,58,Female,98246,Premium,3075.98,10,2,23,181,Yes,UPI,Greenburgh,California,0
+252,Rachel Pitts,57,Male,108094,Silver,1600.27,4,5,8,94,Yes,Cash,Meganton,Mississippi,0
+253,Glenn Jackson,42,Female,98174,Silver,2895.29,7,3,32,326,Yes,Cash,Mckayport,Florida,0
+254,Kirk James DDS,28,Female,57858,Silver,976.14,14,8,40,28,Yes,Net Banking,Colemanton,Vermont,0
+255,Christina Wood,26,Male,126851,Premium,4820.95,9,8,27,351,No,Net Banking,Lake Kristinville,Montana,0
+256,Nathan Lewis,28,Male,94107,Basic,3989.61,4,5,3,141,No,Debit Card,Port Karen,Georgia,1
+257,Julia Moses,67,Female,94140,Premium,2771.14,2,10,8,138,No,Cash,Karenville,North Dakota,0
+258,David Wright,70,Male,119615,Premium,2754.45,7,2,48,335,No,Credit Card,Justintown,Rhode Island,0
+259,Kyle Ballard,46,Female,65688,Basic,2223.4,2,4,14,302,No,Debit Card,New Sherri,Oregon,1
+260,Leah Nguyen,57,Male,122871,Silver,4076.97,13,1,37,180,Yes,UPI,Nicholasfurt,New York,0
+261,Robert Duncan,63,Female,57923,Gold,4764.37,9,2,9,211,No,Debit Card,Burnsstad,Texas,0
+262,Lisa Berger,62,Male,52725,Silver,3571.4,14,4,49,347,Yes,Cash,West Mark,Florida,1
+263,Andrew Sullivan,58,Female,102288,Premium,1907.1,2,2,26,264,No,Net Banking,Boylemouth,Florida,0
+264,Jacob Wilson,49,Female,96278,Basic,4351.09,14,2,47,235,No,Credit Card,Joville,Kentucky,1
+265,Miranda Johnson,68,Female,48551,Premium,4133.0,8,5,21,146,Yes,Cash,Heatherview,Hawaii,0
+266,Amanda Daniel,49,Female,137198,Basic,277.42,11,8,2,64,Yes,Net Banking,Jamesside,Indiana,0
+267,Nicholas Collier,47,Male,145571,Premium,1051.48,12,3,42,155,No,Credit Card,South Johnborough,Tennessee,1
+268,Rebekah Lopez,59,Female,52819,Basic,1890.63,15,3,4,203,Yes,Net Banking,Davidhaven,New Jersey,1
+269,Christopher Richards,59,Male,112235,Basic,55.38,8,2,9,304,No,Credit Card,West Philliphaven,Tennessee,1
+270,Brian Baker,18,Female,127100,Basic,4941.37,7,3,31,37,Yes,Credit Card,Port Brianna,Minnesota,1
+271,Jasmine Gutierrez,24,Female,68177,Gold,728.79,13,3,42,347,Yes,Cash,Alimouth,Kentucky,1
+272,Nathaniel Patrick,59,Male,77684,Gold,3626.04,11,3,27,316,Yes,Credit Card,Mistyburgh,Tennessee,0
+273,Mark Anderson,24,Male,118624,Basic,2968.39,7,6,28,162,Yes,UPI,Richardtown,Kansas,0
+274,Tina Koch,59,Male,52527,Gold,3905.9,12,1,43,155,Yes,Net Banking,Robertsfort,New Mexico,1
+275,Matthew Hess,36,Male,122734,Silver,2499.69,2,4,32,327,Yes,UPI,Robinsonmouth,New York,0
+276,Tammy Richardson,38,Male,70703,Premium,1858.79,11,3,49,242,Yes,Credit Card,Pattonburgh,Wisconsin,0
+277,Jennifer Taylor,55,Male,21807,Gold,1117.93,15,1,26,260,No,Net Banking,Donaldshire,Utah,1
+278,Daniel Jones,62,Female,30803,Silver,1423.47,5,2,33,105,Yes,Cash,Richardchester,Michigan,0
+279,Andrew Esparza,38,Female,96865,Basic,1585.34,7,4,4,126,No,Credit Card,Reedfort,Minnesota,1
+280,Alyssa Cobb,47,Male,60539,Silver,641.24,12,3,45,6,No,Cash,New Ronaldberg,Michigan,1
+281,Travis Hall,51,Female,41884,Gold,678.31,13,5,47,61,Yes,UPI,West Michellefort,North Carolina,0
+282,Sheri Green,69,Female,55649,Basic,1351.6,10,2,32,234,Yes,Net Banking,West Lancemouth,Alabama,1
+283,Kyle Ochoa,54,Male,68193,Silver,1312.82,2,10,44,60,Yes,Credit Card,Port Andrewland,Hawaii,0
+284,Leslie Lewis,18,Male,26026,Premium,1851.68,15,3,12,19,No,Debit Card,West Anthonyland,New York,0
+285,Damon Long,38,Male,74559,Gold,1392.73,2,10,24,62,Yes,Debit Card,Powersview,Arizona,0
+286,Andre Reeves,32,Male,145053,Premium,391.19,8,5,50,160,No,Credit Card,Vanessaburgh,North Carolina,0
+287,Eric Hill,41,Male,58219,Gold,3710.9,4,8,24,303,Yes,Cash,Valenzuelaland,Washington,0
+288,Eileen Sanchez,66,Male,39735,Basic,4665.37,1,4,35,178,Yes,UPI,Port Savannah,New Mexico,0
+289,Julie Bowman,18,Female,131280,Gold,564.55,9,4,27,252,Yes,UPI,Mannington,Wisconsin,0
+290,Peter Mcmillan,23,Male,140753,Silver,4491.57,9,7,45,191,Yes,Cash,South Marcus,Ohio,0
+291,Kenneth Taylor,24,Male,103521,Premium,420.41,10,1,28,340,Yes,UPI,New Anamouth,Utah,0
+292,Gabriel Casey,34,Female,141378,Premium,3518.59,12,6,21,232,Yes,Debit Card,Gregoryland,Iowa,1
+293,Robert Jones,26,Male,40369,Basic,863.66,8,6,27,62,Yes,Net Banking,West Melaniebury,Missouri,0
+294,Stephen Simmons,37,Female,54735,Basic,497.58,13,5,46,357,Yes,UPI,Maryview,South Carolina,0
+295,Thomas Gomez,27,Male,113212,Silver,4843.58,7,9,4,347,Yes,Credit Card,Josestad,Hawaii,1
+296,Brittany Roberts,43,Female,92869,Silver,518.89,2,3,8,7,Yes,Debit Card,West Nicole,Florida,1
+297,Ryan Sosa,30,Female,68790,Basic,2932.5,5,2,2,34,No,Debit Card,Annaport,Oregon,1
+298,Jacob Brown,23,Female,36059,Basic,4714.29,1,3,37,222,No,Net Banking,Douglaston,Texas,0
+299,Troy Wright,19,Female,109550,Premium,905.4,4,3,18,144,Yes,Credit Card,Teresaside,Tennessee,0
+300,Susan Mccoy,57,Male,104840,Gold,2519.51,15,9,31,32,No,Debit Card,North Jacobtown,California,1
+301,Elizabeth Bryant,44,Male,104233,Silver,3172.23,13,9,2,196,No,Net Banking,Jacquelineland,New York,0
+302,Nancy Brooks,52,Female,65093,Gold,1972.49,3,1,21,306,No,Credit Card,Baileyview,Washington,1
+303,Arthur Thompson,69,Female,89393,Gold,3845.87,4,3,7,127,No,Cash,Mcneilside,Arkansas,0
+304,Mary Garrett,70,Male,120145,Silver,2899.68,13,7,23,89,No,UPI,Lake Michaelport,Pennsylvania,0
+305,Caroline Pratt,55,Male,112202,Gold,4740.42,10,3,37,97,No,Cash,New Victor,Georgia,0
+306,Thomas Rodriguez,37,Male,84282,Basic,496.77,4,10,15,11,Yes,UPI,Lake Leon,Georgia,0
+307,Catherine Davis,57,Male,125702,Silver,1736.76,3,6,4,12,Yes,Credit Card,Martinberg,New Mexico,0
+308,James Jimenez,51,Female,145902,Basic,1899.27,11,7,38,52,No,Debit Card,Taylorchester,Hawaii,0
+309,Jennifer Stanley,28,Female,123788,Premium,3263.44,3,9,45,315,Yes,Cash,Port Tammy,Pennsylvania,0
+310,Brian Willis,70,Male,69595,Gold,3683.28,5,3,12,1,No,Cash,Hollowayport,South Dakota,0
+311,Douglas Martin,20,Male,98956,Gold,4609.14,10,4,41,290,No,Debit Card,Byrdstad,Tennessee,1
+312,Lauren Davis,39,Male,51194,Gold,4912.78,3,2,46,344,No,Net Banking,Lake Stephanie,Iowa,0
+313,Billy Hall,18,Female,47483,Silver,3481.22,6,5,7,1,No,Net Banking,South Scott,Oklahoma,1
+314,Doris Davis,28,Female,84629,Premium,1788.59,7,2,31,296,Yes,Debit Card,Mannfort,South Carolina,0
+315,Kevin Powell,46,Male,124752,Basic,1509.8,6,5,7,38,No,Debit Card,North Kayla,Arkansas,0
+316,Christian Moore,64,Male,91702,Basic,1722.86,10,8,46,16,Yes,Cash,East Theresa,Montana,0
+317,Joseph Thompson,45,Male,27019,Basic,1688.92,4,7,45,284,No,UPI,West Andrea,Michigan,0
+318,Michael Jones,37,Male,32571,Basic,1994.87,9,8,10,28,No,Credit Card,North Sharontown,West Virginia,0
+319,Christina Kramer,36,Female,46171,Basic,177.39,3,5,6,243,No,Net Banking,North Jessicastad,Connecticut,0
+320,Gregory Rivas,48,Female,137293,Gold,501.13,9,7,12,190,No,Debit Card,Allenfurt,Maryland,0
+321,Kyle Smith,46,Male,54510,Premium,2352.04,4,5,37,32,Yes,Credit Card,Lake Cheryl,Tennessee,0
+322,Timothy Nelson,60,Female,125929,Premium,4854.99,10,4,36,32,No,Cash,Port Sharon,Hawaii,0
+323,Eric Wright,61,Female,95066,Silver,2407.5,2,7,46,18,Yes,Credit Card,North Ronald,Oregon,0
+324,Felicia Jones,66,Female,42659,Silver,4862.22,13,4,9,22,No,Debit Card,Jasonmouth,Florida,0
+325,Pamela Shelton,70,Male,129328,Gold,1632.76,12,2,6,199,No,UPI,West Laurenfurt,Florida,0
+326,Barbara Oliver,51,Female,140214,Basic,3943.43,10,10,34,215,Yes,Debit Card,Johnsonview,Wyoming,1
+327,Ryan Smith,54,Male,141232,Basic,2835.28,2,5,35,177,No,Net Banking,Lake Todd,Vermont,0
+328,Laurie Munoz,59,Female,94976,Premium,235.46,5,7,10,317,No,Credit Card,East Gregoryfort,Maryland,0
+329,David Bennett,43,Female,110507,Silver,293.99,8,5,24,11,No,UPI,Ashleyhaven,Ohio,0
+330,Colleen Nelson,35,Female,132490,Basic,4863.86,4,3,20,227,No,UPI,New Lauriestad,Idaho,0
+331,Rachel Warren,64,Female,99295,Basic,980.28,4,7,48,249,No,Credit Card,Nathanielshire,Georgia,0
+332,Amber Armstrong,50,Male,28600,Gold,3562.37,7,3,50,269,Yes,Debit Card,Hallburgh,Alaska,0
+333,Jennifer Estes,30,Male,129704,Basic,1284.98,8,1,24,361,No,Net Banking,Matthewburgh,New York,1
+334,Danielle Romero,50,Female,103284,Basic,3421.81,4,6,32,305,No,Cash,New Krista,Indiana,1
+335,April Turner,53,Female,65121,Silver,4196.39,5,2,19,15,Yes,Cash,Lake Robin,South Carolina,0
+336,Mitchell Walker,67,Male,132343,Silver,3254.53,11,4,18,334,Yes,Credit Card,North Laurieberg,Idaho,1
+337,Carl Hill,48,Male,104852,Silver,3025.65,1,4,17,312,No,UPI,West Dalehaven,New Mexico,0
+338,Danielle Harris,45,Female,131619,Gold,2322.04,4,8,20,347,No,Cash,West Tomshire,New York,0
+339,Mrs. Summer Pena MD,24,Male,87045,Gold,2829.21,10,10,19,153,No,Credit Card,Josephhaven,Colorado,0
+340,Donna Gonzalez,39,Female,103964,Gold,4314.38,5,5,13,77,Yes,Credit Card,East Jackson,Texas,0
+341,Shawn Bender,69,Female,106577,Gold,3419.74,12,1,42,255,No,Net Banking,New Kathrynton,Kentucky,0
+342,Jennifer Bates DVM,43,Female,116564,Basic,2935.97,10,4,22,114,No,UPI,Lake Amyville,Wisconsin,0
+343,Louis Potter,50,Female,130810,Silver,4211.16,15,9,12,151,Yes,UPI,East Dustin,Idaho,1
+344,Joshua Ramirez MD,64,Male,144115,Gold,3289.45,4,6,15,158,No,UPI,Welchville,West Virginia,0
+345,Derrick Riley,34,Female,80786,Basic,2379.16,14,10,38,318,Yes,Cash,East Kevin,Ohio,1
+346,Patrick Bailey,25,Female,89446,Gold,2094.88,14,3,9,103,No,Debit Card,Port Troy,Rhode Island,0
+347,Jennifer Valdez,38,Male,122097,Basic,2463.53,11,3,21,325,No,UPI,East Kelsey,Idaho,1
+348,Michelle Chen,31,Male,95534,Silver,2473.41,13,2,9,315,No,Net Banking,Port Stephaniemouth,Arkansas,1
+349,Amy Murphy,45,Female,70242,Basic,236.74,4,6,1,165,Yes,Credit Card,Samanthabury,North Dakota,0
+350,Steven Jimenez,61,Male,102141,Silver,1170.02,15,6,20,67,No,Debit Card,Kevintown,Oregon,0
+351,Christine Mcguire,22,Male,59085,Gold,2306.84,9,10,34,173,Yes,UPI,New Kenneth,Georgia,0
+352,John Conley,49,Female,118319,Silver,866.17,15,7,2,117,Yes,Debit Card,Georgehaven,Utah,0
+353,Alexis Bryant,64,Male,97292,Silver,659.65,12,1,25,328,Yes,Cash,West Charles,Louisiana,1
+354,Anne Espinoza,21,Male,105664,Basic,288.76,2,7,29,195,No,Net Banking,Port Hayley,Ohio,1
+355,Pedro Gonzales DDS,62,Male,46934,Basic,1540.53,11,2,43,267,Yes,Net Banking,Lynchville,Arkansas,1
+356,Sheri Morris,24,Male,57054,Basic,3934.56,8,4,39,103,Yes,UPI,Pattonstad,Kansas,0
+357,Shannon Brown,63,Female,58712,Silver,245.06,8,4,45,247,Yes,Credit Card,Port Kimberlyton,Rhode Island,1
+358,Anthony Shields,60,Male,138866,Basic,4184.4,11,8,10,47,Yes,Credit Card,North Larryshire,New York,0
+359,Kristin Allison,34,Male,79867,Gold,1357.42,1,2,12,21,No,UPI,South Emily,Texas,0
+360,Timothy Graham,45,Male,32451,Basic,97.88,3,3,22,184,No,Credit Card,East Troy,New York,0
+361,John Woodard,41,Female,43969,Basic,2033.85,8,5,25,354,No,Debit Card,East Katrina,New Hampshire,0
+362,Katherine Davis,25,Male,111248,Basic,4908.77,14,3,7,214,No,Cash,East Meredithville,Louisiana,0
+363,Brian Perez,61,Female,43758,Premium,3906.86,10,1,44,67,No,Credit Card,West John,Ohio,0
+364,Chris Livingston,44,Female,26025,Basic,1344.98,6,1,46,348,Yes,UPI,West James,South Dakota,1
+365,David Beck,51,Male,76734,Silver,2435.55,11,7,10,286,Yes,Credit Card,Hallfurt,New Hampshire,0
+366,Jon Stephenson,59,Male,86265,Premium,4266.76,14,3,5,252,No,UPI,Lake Cathyside,Hawaii,1
+367,James Kelley,21,Male,92154,Premium,2046.22,4,2,30,228,No,Credit Card,North Arielmouth,South Carolina,0
+368,Alec Crawford,49,Female,61426,Basic,4904.32,12,1,7,207,Yes,Credit Card,Lake David,Missouri,1
+369,Stephanie Hinton MD,68,Female,136668,Silver,3290.25,8,6,24,28,No,UPI,Batesbury,South Carolina,0
+370,Mr. Nicholas Harrison,53,Female,113933,Gold,3593.77,2,2,49,338,No,UPI,Lake Diane,Nebraska,1
+371,Shelley Acevedo,58,Female,91786,Gold,3525.38,1,3,32,72,No,Credit Card,Lake Kenneth,Vermont,0
+372,Robin Williams,34,Male,44581,Basic,4654.57,7,4,30,98,Yes,Net Banking,Port Savannahland,Connecticut,0
+373,Michael Terrell,20,Male,121206,Premium,2314.07,10,9,9,256,Yes,Cash,Mayport,Utah,1
+374,Adam Perez,45,Female,141159,Silver,3474.5,3,3,7,199,No,Cash,Nancymouth,Florida,0
+375,Summer Roberts,42,Female,148385,Silver,1404.3,6,5,29,69,No,Cash,Port William,Rhode Island,0
+376,Rebecca Monroe,38,Male,46330,Silver,3139.63,5,6,44,68,Yes,Cash,East Michaelfurt,Ohio,0
+377,Mr. Michael Sanchez,52,Female,113107,Basic,3815.84,9,8,38,293,No,Cash,Whiteburgh,Georgia,0
+378,Ashley Miranda,36,Female,125946,Basic,2637.51,1,7,10,28,Yes,UPI,South Briana,North Carolina,0
+379,Dustin Blair,66,Male,148913,Gold,3432.78,3,1,45,152,Yes,UPI,Dyerville,Nebraska,1
+380,Kimberly Turner,70,Female,33432,Silver,3724.94,9,7,16,262,No,Credit Card,West Wesley,Nevada,0
+381,Edgar Banks,42,Female,74600,Gold,4830.87,1,1,48,129,No,Debit Card,East Feliciastad,Nevada,1
+382,Michelle Garcia,58,Female,118973,Silver,3891.93,4,5,29,91,Yes,Debit Card,New Brian,Nebraska,0
+383,Nancy Johnson,29,Male,69440,Basic,2171.11,9,5,9,83,No,Credit Card,Lake Jessicaborough,Montana,0
+384,Kevin Webb,39,Female,113020,Silver,247.71,15,6,39,27,No,Net Banking,Alexandraport,Arizona,0
+385,Alan Huber,68,Female,29552,Gold,2650.71,3,9,5,259,No,Credit Card,Allenborough,Virginia,1
+386,Gerald Coleman,40,Male,135788,Silver,3333.51,6,6,19,112,No,Cash,North Tabithatown,Alabama,0
+387,Catherine Petersen,70,Male,35036,Gold,2256.05,15,10,40,125,No,Net Banking,Murrayborough,Pennsylvania,0
+388,Cory Kennedy,68,Male,70577,Gold,2724.17,5,1,34,192,No,Net Banking,Anthonyfurt,South Dakota,0
+389,Morgan Frederick,20,Female,137739,Silver,1635.55,2,2,11,276,Yes,Debit Card,Morrishaven,Colorado,0
+390,Caleb Johnson,60,Male,133370,Premium,4186.54,4,9,45,223,Yes,Debit Card,Port Kevinville,Illinois,0
+391,Lydia Kelley,19,Female,113961,Gold,237.54,2,1,12,129,Yes,UPI,West Cynthiatown,Missouri,0
+392,Savannah Mendoza,44,Female,79129,Premium,2193.47,1,7,44,61,Yes,Cash,East Kurtville,Hawaii,0
+393,Matthew Wiley,20,Male,66884,Basic,1484.69,11,5,39,45,No,Net Banking,Port Jennifer,West Virginia,1
+394,Bethany Calhoun,43,Male,82126,Silver,2690.67,3,7,35,152,Yes,UPI,Hernandezstad,Arizona,0
+395,Crystal Burnett,61,Female,145487,Basic,2789.94,9,3,8,22,No,Cash,South Troyborough,Vermont,1
+396,Michael Smith,53,Male,59936,Silver,3754.07,15,6,14,212,Yes,Debit Card,Lake Brian,North Dakota,0
+397,Jessica Horn,29,Male,100856,Gold,1011.91,3,10,4,282,Yes,UPI,Lake Paul,Idaho,0
+398,John Garcia,60,Male,52858,Basic,1027.22,10,8,22,183,Yes,Credit Card,Johnmouth,Maryland,1
+399,Christopher Jackson,36,Male,137980,Silver,1623.04,8,6,40,338,Yes,Cash,East Katieshire,Missouri,0
+400,Anne Lang,54,Female,125866,Gold,4795.36,3,1,21,127,No,UPI,Rothfurt,Virginia,0
+401,Cole Payne,41,Male,109073,Gold,4395.53,8,8,23,157,Yes,Debit Card,South Benjamin,Kentucky,0
+402,Jonathan Thomas,59,Male,130335,Gold,4300.63,3,9,13,135,Yes,Credit Card,Erinton,New Mexico,0
+403,April Johnson,19,Male,126514,Premium,3857.54,4,1,36,134,No,Debit Card,Lake Garyshire,Virginia,0
+404,Christian Horton,41,Female,49269,Gold,712.71,9,9,6,204,Yes,Debit Card,Stoutberg,South Carolina,0
+405,David Walters,69,Male,119248,Silver,2258.79,3,10,37,338,Yes,Net Banking,Martinezberg,Kentucky,0
+406,Adam Hawkins,40,Male,48681,Premium,1197.16,5,6,15,22,No,Net Banking,Port Jeremiah,Arkansas,0
+407,Andrew Barber,48,Female,135546,Basic,247.53,11,6,7,361,No,UPI,Suzannetown,Kansas,0
+408,Mr. Carl Reid Jr.,55,Male,69369,Premium,1858.22,11,2,34,129,Yes,Cash,West Jack,Arizona,0
+409,Theodore Cain,43,Female,127116,Gold,2459.96,8,10,1,257,No,Debit Card,East Johnnyfurt,Alabama,0
+410,Amy Jones,32,Male,87441,Gold,1097.01,3,3,24,309,Yes,Debit Card,North Jamie,Alaska,0
+411,Robert Duran,44,Female,114405,Basic,2433.51,8,8,14,303,No,Credit Card,Marktown,Florida,1
+412,Valerie Miller,33,Male,36762,Silver,716.88,9,1,37,76,No,Debit Card,Shannonview,New Jersey,1
+413,Heather Harvey,51,Female,98558,Basic,4398.62,12,5,6,111,No,Net Banking,Jamesstad,North Dakota,0
+414,Melissa Martinez,28,Male,128837,Premium,3024.15,13,10,50,94,No,Debit Card,Ibarraport,Massachusetts,0
+415,Karen Lam,64,Female,140894,Premium,3002.84,2,4,25,198,Yes,Debit Card,Flowersberg,Florida,1
+416,Bryan Larson,51,Female,128332,Silver,3047.28,3,8,40,308,Yes,Credit Card,New Dannyfort,Oregon,1
+417,Alexandria Anderson,48,Male,138224,Basic,4490.0,13,7,34,216,Yes,Cash,Washingtonmouth,Georgia,1
+418,Meagan Greene,45,Male,143000,Premium,3958.3,7,6,38,357,No,Debit Card,West Miguel,Alaska,0
+419,Samuel Miller,34,Female,120382,Silver,4554.92,2,5,39,279,Yes,Credit Card,Sandrastad,Texas,0
+420,Robert Powell,63,Male,95757,Basic,2622.82,7,4,45,162,Yes,Debit Card,South Michaelfort,Rhode Island,1
+421,Mary Anderson,45,Female,54249,Premium,2845.12,10,5,44,204,No,Cash,Starkbury,Georgia,0
+422,Jose Hodges,68,Female,43425,Gold,2817.51,8,5,20,296,No,Debit Card,Wellsmouth,Michigan,0
+423,Sean Jimenez,60,Male,118017,Silver,2260.64,12,3,7,110,No,Cash,Diazborough,Wisconsin,0
+424,Breanna Shelton,57,Male,41068,Premium,4824.62,1,2,10,242,No,Credit Card,Jacquelineport,Massachusetts,0
+425,Melissa Webb,22,Female,49067,Gold,446.2,1,7,26,315,No,Cash,Port Seanfort,Oregon,0
+426,Laura Adkins,21,Male,103924,Premium,2222.91,4,9,19,100,Yes,Cash,Morenoland,Rhode Island,1
+427,Tiffany Tate,28,Male,67151,Silver,3292.34,3,2,18,205,No,Net Banking,New Kelsey,Texas,1
+428,Wanda Martin,55,Male,87861,Basic,3697.78,2,2,36,146,No,UPI,Lake Kariview,Iowa,0
+429,Megan Bean,70,Female,49661,Silver,2301.06,7,10,1,134,Yes,Cash,New Erintown,Vermont,0
+430,Jane Nicholson,22,Female,64560,Basic,4024.56,5,9,37,129,No,Cash,Johnsonberg,Montana,0
+431,Gabrielle Moore,48,Male,119283,Gold,4808.13,8,8,38,15,No,Credit Card,Shellymouth,Minnesota,0
+432,Manuel Lawrence,42,Male,108724,Silver,4010.8,7,6,34,275,No,Debit Card,West Gregory,Kansas,1
+433,Ashley Reilly,36,Male,72288,Gold,426.34,15,3,31,161,No,Debit Card,Port Alyssatown,Georgia,0
+434,Sarah Jackson,65,Male,85404,Silver,1212.56,4,5,14,118,Yes,Cash,Kristyview,Texas,0
+435,Tiffany Key,40,Male,122097,Basic,643.4,2,8,40,4,Yes,Net Banking,Ramirezside,Kentucky,0
+436,Steven Poole,41,Female,84532,Gold,2479.49,13,9,18,204,Yes,Credit Card,Riveramouth,Florida,1
+437,Robin Ryan,51,Female,82694,Basic,2537.25,7,3,30,62,No,UPI,East Austin,Indiana,0
+438,Matthew Watts,62,Male,21549,Silver,1928.17,2,6,24,314,Yes,Cash,West Jaimeview,Vermont,0
+439,Charles Silva,34,Male,55311,Premium,4794.71,6,6,12,256,No,UPI,West Isabelberg,Maine,0
+440,Carly Chen MD,41,Female,56651,Premium,940.45,3,10,44,118,No,Debit Card,North Markport,Oregon,0
+441,Brian Sampson,53,Female,132238,Premium,1020.51,13,3,31,5,No,Debit Card,Port Jessica,Utah,1
+442,Wesley Caldwell,58,Female,122935,Premium,1535.17,9,10,4,204,Yes,Credit Card,North Brooke,North Carolina,1
+443,Tracy Walters,31,Female,82460,Basic,2276.78,6,5,24,185,No,UPI,Lake Melaniechester,Nebraska,0
+444,Tabitha Cain,19,Female,35890,Gold,4343.47,10,4,37,295,Yes,UPI,North Stephanieville,Wisconsin,0
+445,Dr. Adam Gibson Jr.,40,Female,108236,Premium,3884.98,8,2,25,315,Yes,Debit Card,Pamelaport,Mississippi,1
+446,Anthony Zimmerman,58,Female,75288,Premium,4252.06,2,2,11,176,No,UPI,New Joseph,Delaware,1
+447,Frank Hansen,63,Female,99349,Premium,1392.68,8,6,48,301,No,Net Banking,Ferrellview,New York,0
+448,Steven Schwartz,28,Male,131963,Basic,668.95,4,5,48,359,Yes,Debit Card,Reynoldsside,Florida,0
+449,Sean Peterson,43,Male,32524,Basic,4687.13,8,9,4,14,Yes,Credit Card,Jasonmouth,North Carolina,0
+450,Chris Peck,34,Male,31050,Premium,1581.38,4,5,29,321,Yes,Credit Card,Latashafort,New Hampshire,1
+451,Richard Carr,20,Female,132770,Gold,4327.99,8,9,18,281,Yes,Cash,Susanberg,Arizona,0
+452,Dennis Hernandez,56,Female,102712,Premium,2641.13,11,9,20,178,Yes,Credit Card,North Austin,Idaho,0
+453,Andrew Fleming,46,Female,67943,Premium,1336.04,5,1,1,268,Yes,UPI,Christineville,Georgia,0
+454,Joseph Peterson,36,Female,90136,Basic,3454.46,8,8,20,5,No,Cash,Christinaburgh,Delaware,0
+455,Ronald Nelson,32,Male,91855,Gold,983.43,15,9,28,203,No,Net Banking,Frankborough,New Jersey,1
+456,Amy Holden,32,Female,30382,Premium,3145.35,9,10,45,351,No,Net Banking,Cruzton,Pennsylvania,1
+457,Jessica Ballard,30,Male,43908,Silver,1483.5,11,8,40,232,No,Debit Card,Lisastad,Pennsylvania,1
+458,Mark Rodriguez,38,Male,39942,Basic,4850.1,1,3,7,145,No,Credit Card,Meltonshire,North Carolina,1
+459,Patrick Hull,32,Male,39750,Basic,2493.22,6,7,20,256,No,Credit Card,New Christian,Tennessee,0
+460,Thomas Smith,39,Male,130565,Silver,327.39,13,7,5,279,Yes,UPI,Jameshaven,Minnesota,0
+461,Sarah Bennett,70,Female,128560,Basic,653.71,13,4,25,227,Yes,Debit Card,Bridgetfort,West Virginia,1
+462,Daniel Palmer,47,Male,88306,Silver,2390.49,11,5,21,82,Yes,Cash,South Kyleland,Michigan,0
+463,Charles Cherry,51,Male,53202,Premium,3210.67,4,6,4,342,Yes,Debit Card,East Monicaton,New York,1
+464,Ricardo Smith,58,Female,62534,Basic,878.43,5,10,8,203,Yes,Credit Card,Lake Jenniferfort,Iowa,0
+465,Nathan Odonnell,55,Female,110230,Silver,1888.42,2,4,11,256,No,Credit Card,Joehaven,Mississippi,1
+466,Jamie Bryant,21,Female,104485,Silver,3521.57,13,2,9,250,No,Net Banking,Tannerhaven,Kansas,1
+467,Debra Allen,64,Male,22798,Premium,1822.93,3,5,3,249,No,Cash,Port Christian,Tennessee,0
+468,Amanda Davenport,62,Female,44874,Silver,2740.92,6,8,18,307,Yes,Credit Card,Stanleyfort,New York,0
+469,Kayla Roth,51,Male,78901,Gold,4106.12,9,6,30,1,No,Debit Card,Robbinshaven,Texas,0
+470,Jerry Smith,19,Female,121714,Silver,1637.44,2,9,25,98,No,Cash,West Christopher,Georgia,0
+471,Edward Brooks,27,Female,62283,Premium,3222.47,2,2,34,338,Yes,Debit Card,Port Jeanette,Idaho,1
+472,Victor Perry,20,Male,34031,Premium,998.5,1,10,42,199,No,Credit Card,Luisside,Maine,0
+473,Tyler Jackson,41,Male,99423,Basic,114.78,15,4,42,252,Yes,Net Banking,West Christopherfurt,Tennessee,0
+474,Laura Kelley,69,Male,67307,Premium,4119.03,13,1,40,137,Yes,UPI,Austinfurt,South Carolina,0
+475,Larry Huff,22,Male,145906,Basic,551.06,4,9,25,98,Yes,Cash,North Brittany,Texas,1
+476,Jeremy Meyer,58,Male,93193,Premium,3743.24,13,10,23,346,No,Credit Card,Browningmouth,Wyoming,0
+477,Ryan Andrews,28,Male,92085,Premium,2548.23,11,3,35,308,No,UPI,Theresahaven,Colorado,1
+478,Tina Holder,53,Female,130736,Gold,2091.1,11,7,47,166,Yes,Net Banking,Heatherside,Iowa,0
+479,Briana Williams,67,Female,67187,Premium,2265.12,7,1,47,18,Yes,Cash,East Stephanie,Rhode Island,0
+480,Morgan Smith,26,Female,20860,Gold,4922.75,4,6,2,354,Yes,Credit Card,North Juanchester,New York,0
+481,Emily Roberson,20,Female,66616,Silver,735.12,6,10,16,120,No,Credit Card,Allenstad,South Dakota,0
+482,Melissa Stephens,54,Female,94588,Silver,3684.62,12,6,31,89,Yes,Cash,Williamton,Delaware,0
+483,Adam Holmes,59,Female,24898,Premium,438.46,1,6,23,223,Yes,Debit Card,South Willieland,Maine,0
+484,Karen Simpson,65,Male,103084,Premium,317.93,9,1,21,277,No,Cash,Thompsonhaven,Michigan,0
+485,Elizabeth Wright,62,Male,40079,Basic,3384.49,7,8,49,305,Yes,Debit Card,North Davidtown,Georgia,0
+486,Chloe Williams,45,Female,123070,Premium,782.66,6,2,31,293,No,UPI,Davidfurt,North Carolina,0
+487,Diana Johnson,23,Female,85774,Premium,3880.43,3,3,31,287,No,Cash,Shieldsland,California,1
+488,Mr. Charles Miller,30,Male,51760,Basic,1367.97,7,6,44,295,No,Net Banking,Cochranburgh,Arizona,1
+489,Brian Campbell,41,Female,44967,Gold,1755.4,11,1,50,157,No,Cash,New Carrieside,Illinois,1
+490,Angela Jones,70,Female,101681,Silver,2230.29,15,4,13,351,Yes,Credit Card,Jacquelineburgh,Tennessee,1
+491,David Garcia,65,Male,51856,Silver,4350.32,14,5,1,176,Yes,UPI,North Karen,Mississippi,0
+492,Sheila Juarez,46,Female,22981,Gold,1084.6,9,4,14,280,No,Cash,South Benjaminton,Delaware,0
+493,Jason Williams,48,Male,111104,Basic,1914.2,15,9,3,131,No,Debit Card,West Brenda,Alaska,1
+494,Jeffrey Page,68,Female,26957,Premium,3291.05,1,2,25,339,No,Credit Card,West Megan,Massachusetts,1
+495,Lauren Williams,19,Female,133693,Premium,1194.28,7,9,46,51,No,Cash,West Zachary,Rhode Island,0
+496,Renee Lamb,52,Male,44434,Silver,2528.22,8,9,46,12,No,UPI,Marvinfurt,Michigan,1
+497,Scott Smith,49,Female,117568,Silver,140.94,11,6,23,321,No,Credit Card,Rogersburgh,South Dakota,0
+498,John Rojas,58,Female,135169,Premium,4457.49,14,1,36,144,No,Net Banking,Marissaland,Mississippi,1
+499,Christopher Meadows,60,Male,31507,Premium,2627.55,11,10,41,352,Yes,Cash,South Marc,Texas,1
+500,Jeffrey Jones,27,Female,147210,Gold,4553.19,6,8,35,68,Yes,Cash,Pittsstad,Oklahoma,0
+501,Rebecca Webb,52,Male,133061,Silver,1579.54,12,9,9,221,Yes,Cash,Elliottfort,Alaska,0
+502,Deborah Kelley,28,Female,28888,Basic,961.47,14,3,47,16,No,Net Banking,West Anthonybury,Kansas,0
+503,Matthew Smith,37,Female,117728,Gold,802.19,4,2,9,95,No,Cash,Stewartburgh,Rhode Island,1
+504,Chad Fox,54,Male,98166,Silver,1193.02,1,6,6,353,Yes,Cash,New Grace,Kansas,0
+505,Shelly Mcguire,56,Female,113325,Gold,960.68,7,8,31,71,Yes,Credit Card,South Jorgemouth,Louisiana,0
+506,Nicole Greene,44,Male,141298,Gold,4753.48,4,4,49,105,No,Cash,North Julieside,Idaho,1
+507,Jesse Gonzalez,49,Female,133609,Premium,4443.56,7,7,50,22,No,UPI,Gillberg,New Mexico,0
+508,Dr. Rodney Guerrero,43,Male,88242,Basic,2285.47,14,1,16,266,Yes,Cash,Harrisburgh,Maryland,1
+509,Lisa Kim,42,Male,44884,Gold,2225.79,15,5,50,147,No,UPI,Sandrashire,Pennsylvania,0
+510,Angela Rodgers,57,Male,110433,Silver,2344.72,11,8,6,257,Yes,Net Banking,Josephmouth,South Dakota,1
+511,Gabriel Rodriguez,44,Female,79098,Basic,935.45,10,4,30,47,Yes,Credit Card,South Vanessamouth,Hawaii,1
+512,Damon Morrison,23,Male,112566,Premium,3188.66,2,9,46,197,Yes,Net Banking,Salazarview,Wisconsin,0
+513,John Sanders,53,Female,25754,Silver,4565.65,10,3,11,75,Yes,Net Banking,East Laurafort,Idaho,1
+514,Karen Kaiser,37,Female,115703,Premium,1479.46,3,2,9,104,No,Credit Card,South David,Kentucky,1
+515,Joshua Moses,47,Female,132120,Premium,2740.33,1,10,32,122,No,Net Banking,Lake Kyle,Wisconsin,0
+516,Melissa Aguilar,44,Female,30407,Basic,1261.33,9,5,40,322,Yes,Credit Card,Robertchester,North Carolina,0
+517,Thomas Black,29,Male,27217,Gold,231.77,14,1,43,296,No,UPI,East Dustinhaven,Arizona,0
+518,Douglas Johnson,23,Male,34272,Premium,4968.99,3,5,40,339,Yes,Net Banking,Lopezhaven,North Carolina,0
+519,Daniel Miles,65,Female,142090,Basic,510.98,5,6,24,195,No,Cash,Port Rebekah,Nebraska,0
+520,Nancy Dickerson,22,Female,81710,Silver,654.01,14,5,22,270,Yes,Debit Card,Lake Dorothyfort,South Dakota,0
+521,Derrick Benitez,57,Male,34326,Basic,2444.13,12,10,46,148,No,UPI,Gonzalezton,Missouri,0
+522,Raymond Jones,51,Female,141517,Silver,3090.74,8,9,47,324,Yes,Cash,Allenland,Washington,0
+523,Jared Kent,32,Female,148353,Silver,57.83,1,8,41,61,Yes,Cash,West Patricialand,Rhode Island,0
+524,Michael Patel,44,Female,25962,Gold,1780.77,13,4,1,328,No,UPI,East Jessica,Connecticut,1
+525,Thomas Smith,68,Male,60340,Gold,2558.11,6,1,8,352,No,Cash,Lake Kristinaberg,Georgia,1
+526,Michael Alvarez,57,Male,129057,Silver,1010.38,14,6,44,246,Yes,Debit Card,South Mary,Idaho,0
+527,Michael Hudson,48,Male,102208,Premium,4465.69,9,6,30,212,Yes,Cash,Ruizstad,New Hampshire,0
+528,Matthew Davis,37,Female,92768,Basic,1080.9,11,6,23,34,No,Credit Card,East Michael,Arizona,0
+529,Kelly Williams,39,Female,102118,Silver,2876.36,7,3,39,60,No,UPI,South Ravenburgh,Louisiana,0
+530,Tina Rodriguez,63,Male,55585,Premium,479.65,15,4,24,232,No,Debit Card,North Amber,Minnesota,0
+531,Jennifer Carter,51,Female,42939,Basic,1902.37,1,4,6,228,No,Cash,East Donald,Texas,1
+532,Natasha King,27,Male,64579,Premium,3675.58,9,5,50,168,Yes,Cash,Jacobport,Colorado,0
+533,Lisa Cunningham,61,Male,46894,Basic,2323.87,12,9,8,3,Yes,Cash,Wesleyland,Kansas,0
+534,Carla Howard,23,Female,81194,Basic,560.36,13,5,2,296,Yes,UPI,South Aliciamouth,Wyoming,0
+535,Jennifer Moses,30,Male,57560,Gold,2684.77,13,8,43,61,Yes,UPI,Derrickmouth,California,0
+536,Lee Johnson,25,Male,145606,Basic,1072.56,6,9,21,139,No,Cash,Joseland,Pennsylvania,1
+537,Cynthia Golden,33,Male,29337,Gold,3085.65,6,9,29,26,No,Credit Card,West Malikhaven,Alaska,0
+538,Vanessa Jenkins,24,Female,27051,Basic,2161.01,3,10,38,323,No,Cash,South Rebecca,Delaware,0
+539,Veronica Chang,40,Female,63559,Silver,3578.85,11,9,6,239,Yes,Net Banking,Lake Mariahaven,Idaho,0
+540,Brianna Hurley,24,Female,60683,Premium,2379.2,4,3,40,133,No,Debit Card,Jeffreymouth,Nevada,0
+541,James Scott,62,Female,123386,Gold,2293.75,1,2,31,58,No,Debit Card,Baileybury,Nevada,0
+542,Robert Swanson,36,Female,99225,Silver,2564.35,7,2,21,285,No,Cash,Stewartchester,Virginia,0
+543,Frederick Davis,47,Female,97402,Premium,1230.95,4,9,11,247,No,Debit Card,South Lawrence,Arizona,0
+544,Brandon Chaney,70,Female,122801,Premium,2857.7,6,9,45,121,Yes,Cash,Jacobsstad,Ohio,0
+545,Jasmine Maldonado,49,Male,97616,Premium,1660.62,2,8,12,158,Yes,Cash,Sparksland,Maine,0
+546,Mckenzie Jackson,24,Female,62914,Premium,3242.7,1,2,14,72,Yes,Debit Card,New Kaylatown,Colorado,0
+547,William Hogan,60,Male,79372,Gold,1980.41,10,8,13,106,No,UPI,Jonesmouth,Texas,0
+548,Amy Castro,54,Female,140389,Premium,3603.07,15,6,6,299,No,Debit Card,East Micheal,Minnesota,1
+549,Ashley Webster,36,Male,68394,Basic,54.17,9,6,8,145,Yes,Net Banking,Ronaldport,New York,0
+550,Scott Curtis,62,Female,101948,Gold,3573.28,7,7,28,280,Yes,Net Banking,Wrightmouth,Missouri,1
+551,David Lopez,26,Male,92800,Premium,4224.47,6,7,10,148,Yes,Debit Card,New Marvinfurt,Mississippi,0
+552,David Chandler,18,Male,104985,Basic,762.78,15,8,43,224,Yes,Credit Card,East Maryshire,Virginia,0
+553,Deborah Nguyen,26,Female,132741,Premium,4473.23,12,10,28,320,No,Cash,Rodriguezbury,Kentucky,1
+554,Margaret Fields,70,Female,70425,Gold,1167.42,7,10,1,296,Yes,Cash,Davidview,Nevada,0
+555,Charles Harvey,35,Female,141446,Gold,215.64,1,10,31,361,No,Credit Card,Lake Stacy,Michigan,0
+556,Dana Howell,27,Female,80940,Basic,2640.62,10,2,16,242,Yes,Cash,East Robertstad,South Dakota,1
+557,Martha Blankenship,69,Female,100352,Basic,4522.75,9,1,31,233,No,Cash,Onealstad,Delaware,1
+558,Robyn Richards,64,Female,75183,Gold,4804.88,13,5,19,86,No,Cash,Oconnorburgh,New Mexico,1
+559,Carlos Simmons,34,Male,102483,Premium,2911.8,10,1,43,150,Yes,UPI,Villanuevabury,Oregon,0
+560,Robert Romero,49,Male,36622,Basic,4264.65,5,5,9,316,No,Credit Card,Jeffreyport,Hawaii,1
+561,Lawrence Sims,65,Male,99144,Silver,4555.15,12,3,43,229,Yes,UPI,Lake Lisa,California,1
+562,Kelly Black,68,Male,83559,Silver,4006.89,14,1,22,44,Yes,Net Banking,Wallacefurt,South Carolina,0
+563,Larry Morris,66,Female,120973,Premium,1227.84,8,3,14,296,No,Credit Card,Port Chrisside,Kentucky,0
+564,Kelly Ramirez,59,Female,119022,Basic,309.99,8,7,31,155,Yes,Net Banking,South Nancyville,Indiana,0
+565,Charles Galvan,61,Female,82205,Gold,768.49,14,7,1,148,No,Net Banking,Kimchester,Arizona,0
+566,Ruth Shaffer,61,Female,146060,Basic,531.95,9,6,28,313,No,UPI,Leahtown,South Carolina,0
+567,Maria Parrish,35,Female,125161,Basic,1313.95,10,7,30,346,Yes,Cash,North Robertview,South Carolina,0
+568,Mrs. Shelley Fritz,39,Male,61060,Basic,3380.37,14,2,1,211,Yes,Net Banking,Martinezhaven,New York,1
+569,Jessica Keller,40,Male,115060,Gold,1296.89,1,1,40,48,Yes,Cash,Castilloville,California,1
+570,Rhonda Doyle,58,Male,112808,Basic,477.61,10,3,25,337,Yes,Credit Card,Roberthaven,Hawaii,0
+571,Michael Werner,62,Male,53205,Gold,2361.43,15,2,41,233,No,Net Banking,Lake Aprilside,Missouri,0
+572,Douglas Martinez,62,Female,53729,Silver,3914.62,5,1,25,199,Yes,UPI,Port Joshuaburgh,Nevada,1
+573,Carrie Reyes,70,Female,43321,Premium,393.52,15,4,40,202,No,Credit Card,Annettechester,Wisconsin,1
+574,Elizabeth Mayo,27,Female,48624,Basic,4567.42,12,5,7,18,No,Net Banking,South Kayla,New Mexico,1
+575,Jessica Lee,19,Female,39510,Basic,4667.82,11,7,18,78,No,Cash,South Teresafurt,Alaska,0
+576,Ashley Wallace,18,Female,82670,Premium,2049.37,12,2,35,116,No,Credit Card,Tanyaside,Kansas,1
+577,Eric Barton,54,Female,63704,Gold,2033.04,11,2,24,274,No,Credit Card,North Amberview,Delaware,0
+578,Taylor Gregory,47,Female,104907,Silver,924.26,1,7,43,98,No,Credit Card,Millermouth,Georgia,0
+579,Matthew Jones,58,Female,83766,Basic,4431.81,8,4,9,19,Yes,Net Banking,South Lindsay,New Mexico,1
+580,Kristen Perez,42,Male,123905,Gold,2523.44,14,8,2,19,No,Credit Card,Mcdowellstad,Alaska,0
+581,Jasmine Perkins,43,Male,47745,Premium,4703.44,14,9,10,297,Yes,Credit Card,Mcphersonshire,Colorado,1
+582,Betty Herrera,65,Male,84080,Basic,2382.54,15,10,3,125,Yes,Credit Card,West Jessicaburgh,North Dakota,0
+583,Cynthia Williams,29,Male,138575,Gold,4112.66,2,8,40,88,Yes,Credit Card,Perezside,South Dakota,0
+584,Lawrence Miller,25,Female,97984,Silver,362.4,4,7,22,348,Yes,Cash,Port Chelsea,Idaho,0
+585,Christine Allen,52,Male,62151,Silver,3832.93,10,3,22,33,Yes,Net Banking,Sancheztown,Iowa,1
+586,Katie Sexton,28,Female,92536,Silver,2221.37,15,10,3,69,No,Debit Card,South Elijahton,Kentucky,1
+587,Donna Phelps,19,Female,30580,Basic,85.76,15,2,46,334,No,Net Banking,Michaelton,Montana,1
+588,Jennifer Davis,62,Female,110748,Silver,1070.49,11,5,34,231,Yes,Cash,South Michelle,Ohio,0
+589,Mr. Curtis Hughes,62,Male,98154,Silver,3600.13,10,2,41,155,Yes,Cash,Josephchester,Alaska,0
+590,Sarah Smith,33,Male,35401,Basic,3113.66,14,9,33,113,Yes,UPI,West Lori,Missouri,0
+591,Jeffrey Wright,21,Male,34769,Silver,3441.96,15,8,32,91,Yes,Credit Card,Lake Bradley,Missouri,0
+592,William Johnson,59,Female,57363,Silver,2201.62,6,10,49,233,Yes,Cash,South Rachel,Mississippi,1
+593,Kevin Rush,29,Male,122956,Basic,2451.05,2,2,16,228,No,Net Banking,Port Ryan,Indiana,1
+594,Brian Smith,30,Female,50154,Basic,1664.35,2,4,48,212,No,Debit Card,Steelestad,Oregon,0
+595,Mindy Glover,22,Female,96689,Premium,318.98,7,3,14,313,No,UPI,Garrettmouth,Nevada,1
+596,Clayton Anderson,26,Female,114348,Silver,3178.5,5,4,22,66,Yes,UPI,Port Brandyview,West Virginia,1
+597,Jeanette Smith,26,Male,131627,Premium,2319.97,3,6,15,152,Yes,Cash,Mitchellville,Mississippi,0
+598,Roberto Silva,53,Male,31334,Premium,4292.02,8,4,38,243,No,Credit Card,Krausechester,Rhode Island,0
+599,Thomas Johnson,64,Female,116492,Silver,1276.77,7,10,15,303,Yes,Net Banking,Hollandville,Delaware,0
+600,Bradley Cole,20,Male,149928,Premium,3680.71,9,1,28,272,Yes,Net Banking,Sherryshire,Alaska,1
+601,Kimberly Franco,49,Male,30890,Basic,3481.14,7,4,9,184,Yes,Credit Card,Port Shawn,Wisconsin,1
+602,Daniel Williams,48,Female,41207,Premium,4296.71,12,10,2,233,Yes,Net Banking,Moranfurt,Kentucky,0
+603,Robert Cobb,29,Female,102157,Premium,3534.32,1,2,25,354,Yes,UPI,New Patrick,Kentucky,1
+604,Monica Miller,45,Female,111495,Silver,3949.07,2,10,22,29,No,Credit Card,West Sherryland,Indiana,0
+605,Edward Jones,25,Female,67918,Premium,3114.71,6,6,12,332,Yes,Cash,Christopherton,Colorado,0
+606,Yolanda Bates,63,Male,38141,Gold,1231.23,2,8,48,298,Yes,Debit Card,Derekside,Illinois,0
+607,Kaitlyn Campbell,38,Female,137693,Gold,2542.65,7,5,4,33,No,Net Banking,South Karenmouth,Iowa,0
+608,Jamie Thomas,50,Male,81625,Gold,2287.29,6,2,13,235,No,Debit Card,South Helen,Wyoming,1
+609,Stacy Phelps,36,Male,34334,Silver,1415.92,12,3,32,78,Yes,UPI,North Kenneth,West Virginia,0
+610,Gregory Barnes,44,Male,82115,Gold,2129.64,12,1,19,97,Yes,Cash,North Manuel,West Virginia,1
+611,Kenneth Rios,59,Female,73961,Gold,3296.01,13,6,32,304,No,Net Banking,New David,Louisiana,0
+612,Lori Davies,37,Male,137739,Gold,900.1,5,4,31,191,Yes,Debit Card,Wesleyberg,Missouri,0
+613,Ashley Rivera,40,Female,79759,Silver,3112.22,3,9,19,94,Yes,Debit Card,Johnsonfort,Indiana,0
+614,Kelly Flores,33,Male,25393,Gold,2893.9,8,5,24,95,Yes,UPI,Robertsfurt,Arizona,0
+615,Kyle Davenport,40,Male,68878,Premium,2722.34,3,9,20,63,No,Net Banking,Justinburgh,New York,0
+616,Darlene Stewart,67,Male,144228,Premium,4642.67,3,1,48,280,No,UPI,North Kimberlyhaven,Washington,0
+617,Mary Jimenez,48,Female,147088,Silver,4007.9,12,8,22,353,No,Credit Card,Port Ericastad,Mississippi,1
+618,Richard Woods,26,Male,60380,Basic,2038.07,14,4,29,183,Yes,Cash,Vickieshire,Connecticut,1
+619,Sherry Nelson,59,Male,96471,Silver,3917.35,13,5,13,12,No,Credit Card,Allenbury,Massachusetts,1
+620,Stacey Thornton,50,Female,45486,Premium,1622.9,10,9,4,342,Yes,Net Banking,Anthonychester,Maine,0
+621,James Hill,41,Female,68867,Basic,1459.02,6,5,29,288,No,Net Banking,North Sarah,Oklahoma,1
+622,Mark Sharp,69,Female,57831,Silver,4038.08,15,7,47,213,Yes,Debit Card,West Kenneth,Missouri,1
+623,Jeffery Reilly,31,Female,82208,Gold,377.27,10,7,6,4,No,Net Banking,Moniquehaven,Ohio,0
+624,Jerry Dillon,29,Female,113093,Silver,1036.32,14,7,19,284,No,Cash,Brownville,Massachusetts,0
+625,Jesse Torres,37,Female,93306,Premium,1161.38,13,1,10,135,No,Credit Card,Valerietown,South Dakota,0
+626,Kara Carter,59,Female,74677,Silver,2484.84,12,4,2,62,No,Credit Card,Bruceland,Mississippi,0
+627,Scott Kennedy,56,Female,96161,Premium,2849.59,14,5,41,352,Yes,UPI,North Shannon,Wyoming,0
+628,Robert Holloway,50,Male,130792,Gold,856.09,1,3,21,237,Yes,UPI,Fordview,Tennessee,0
+629,Cody Robinson,28,Male,55739,Gold,2126.59,15,6,4,149,Yes,Cash,West Tracy,Nebraska,0
+630,Emily Stewart,30,Male,120229,Basic,3013.87,3,9,21,162,No,UPI,North Jonathantown,Alabama,0
+631,Laura Phillips,61,Female,32561,Gold,4125.41,1,3,34,145,No,Net Banking,Alexborough,Rhode Island,0
+632,Robert Rose,39,Male,33424,Silver,815.05,4,4,36,315,Yes,Net Banking,North Johnton,Alabama,0
+633,Kenneth Adams,47,Male,35278,Silver,4620.88,8,6,20,354,No,Cash,Carlastad,Montana,0
+634,Terri Williams,51,Female,42571,Gold,192.36,14,2,15,66,Yes,Debit Card,East Christinefort,Ohio,0
+635,Megan Andrews,37,Male,47504,Silver,4906.49,7,2,5,10,No,Credit Card,South Cameronbury,Nebraska,0
+636,Shawn Clark,30,Male,24298,Basic,2371.96,15,5,3,34,Yes,Credit Card,Chapmanstad,Montana,0
+637,David Garcia,68,Male,140599,Silver,2958.64,4,3,43,180,Yes,UPI,Anthonychester,Pennsylvania,1
+638,Deborah Sanchez,55,Female,66163,Silver,4282.93,13,10,16,259,Yes,Cash,Pamelamouth,Wyoming,0
+639,Jon Hernandez,66,Male,89315,Silver,3593.27,5,3,49,276,Yes,Debit Card,West Coreyland,Montana,1
+640,Philip Morris,50,Female,68033,Silver,2226.35,2,3,23,195,Yes,Net Banking,Lake Lacey,Virginia,1
+641,Melissa Johnson,25,Female,36202,Premium,596.06,3,8,49,185,Yes,Credit Card,Richardmouth,West Virginia,0
+642,Ryan Thomas,38,Female,35167,Premium,1453.88,10,5,44,228,No,UPI,Suzanneview,Alabama,1
+643,Matthew Henderson,45,Male,132299,Basic,4479.04,13,8,44,189,No,Credit Card,New Josephberg,Indiana,1
+644,Anna Walsh,43,Female,88506,Basic,640.13,7,7,45,303,Yes,Credit Card,Browntown,Colorado,0
+645,Michael Raymond,41,Male,64385,Silver,2995.06,7,2,15,218,No,Cash,Burgessfurt,Florida,0
+646,Zachary Wheeler,55,Female,119130,Premium,1812.68,11,10,26,249,Yes,Net Banking,Zacharyview,Kentucky,0
+647,Susan Taylor,24,Male,52858,Premium,2511.51,11,3,2,51,Yes,Net Banking,Lake Leestad,Massachusetts,0
+648,Brian Miller,61,Male,147411,Silver,1944.03,11,6,10,156,Yes,Credit Card,New Sandrafort,Pennsylvania,0
+649,Madison Powers,60,Female,123904,Premium,1049.56,11,8,32,259,No,Cash,Clementsland,Tennessee,1
+650,Kyle Gill,52,Male,144856,Basic,4954.02,15,2,25,231,No,Net Banking,Carlberg,Washington,1
+651,Susan Villarreal,47,Male,24306,Silver,2805.5,14,5,46,85,Yes,UPI,North Dianafort,Missouri,0
+652,Alice Garcia,63,Female,83891,Basic,2865.83,8,9,44,277,No,Cash,Lake Tammy,Idaho,0
+653,Matthew Hall,28,Male,71299,Gold,2498.72,7,10,44,181,No,UPI,South Gregory,Colorado,0
+654,Lisa Johnson,21,Male,97393,Basic,684.58,6,6,48,299,No,Net Banking,Port Dennishaven,Idaho,1
+655,Kevin Gibson,24,Female,65238,Gold,2089.05,1,4,16,121,Yes,Credit Card,West Scottside,New Jersey,0
+656,Tina Skinner,37,Male,64249,Silver,147.57,6,1,30,337,No,UPI,Port Michelleburgh,New Hampshire,0
+657,Jeremy Wilson,19,Female,97068,Basic,4929.54,7,10,25,166,No,Credit Card,Melissatown,Kansas,0
+658,Gregory Oneal,62,Male,64035,Premium,2538.7,13,6,11,315,No,Debit Card,Kylebury,Indiana,1
+659,Timothy Long,49,Male,130150,Silver,1472.41,1,5,37,206,Yes,Cash,Alexismouth,Georgia,0
+660,Curtis Ward,24,Female,55830,Basic,2853.82,9,8,28,108,Yes,UPI,Cindyborough,Massachusetts,0
+661,Amanda Brown,50,Female,76742,Gold,1040.38,7,5,40,264,Yes,Credit Card,New Amanda,New Hampshire,0
+662,Jennifer Mann,58,Male,95608,Premium,1104.12,14,8,18,327,No,Cash,Port Meganland,Louisiana,0
+663,Susan Mcguire,64,Male,88454,Silver,1853.16,3,4,10,351,No,Net Banking,Christophertown,Arizona,0
+664,Michael Miller,38,Male,103090,Silver,4237.54,5,5,42,83,Yes,Net Banking,East Michelle,Nevada,0
+665,Terry Wilson,33,Male,39655,Silver,187.14,13,5,30,249,No,Net Banking,Ayalaburgh,Colorado,0
+666,Samuel Chavez,59,Male,46475,Silver,1399.92,1,5,18,338,Yes,Net Banking,Andrewland,Utah,0
+667,Valerie Johnson,68,Male,27251,Basic,1603.83,5,2,27,187,Yes,Net Banking,Erikaport,Oklahoma,1
+668,Anthony Morales,64,Male,50938,Basic,2876.32,9,2,34,341,No,Net Banking,Wilsonmouth,Missouri,0
+669,Erika Mckinney,23,Male,98619,Basic,3877.29,6,6,38,200,Yes,Net Banking,East Nicholasmouth,Kentucky,0
+670,Dennis Williamson,31,Male,34000,Silver,1109.84,5,8,27,131,Yes,Net Banking,Lake Matthewview,Louisiana,0
+671,Dominic Esparza,52,Female,111700,Basic,1616.63,7,8,44,127,Yes,UPI,South Christopherchester,Nevada,0
+672,Bryan Smith,48,Female,127658,Gold,154.32,15,10,3,340,Yes,Debit Card,Nancystad,Arizona,0
+673,Andrew Mccoy,34,Female,60536,Gold,4520.63,11,2,35,122,No,Credit Card,East Steven,Colorado,0
+674,Daniel Walsh,43,Female,59438,Basic,4684.8,13,4,20,108,Yes,Net Banking,New Shannonburgh,Alabama,0
+675,Christopher Wilson,58,Female,135273,Premium,3957.12,5,2,50,252,No,UPI,South Stephanieton,New Mexico,1
+676,Nancy Mcdowell,63,Female,134918,Basic,4130.78,12,5,33,34,No,Net Banking,Kevinchester,Virginia,0
+677,Lisa Hall,62,Male,119873,Basic,3224.8,3,8,42,70,Yes,UPI,Lake Jennifer,West Virginia,1
+678,Jeffrey Richardson,38,Male,34526,Silver,1285.54,12,3,39,352,No,Net Banking,Cherylbury,Kentucky,1
+679,Nicole Brown,48,Male,54167,Silver,3452.96,14,6,19,102,No,Debit Card,South Diana,Massachusetts,1
+680,Nicholas Sweeney,43,Female,143831,Silver,152.64,1,9,42,314,Yes,Net Banking,West Veronica,Louisiana,0
+681,Deanna Cooper,30,Female,111915,Silver,296.43,10,7,39,134,No,Debit Card,South Dennisbury,Hawaii,0
+682,Jordan Mullins,54,Male,21850,Premium,3878.13,15,8,44,254,Yes,Debit Card,Jacksonshire,Idaho,1
+683,Jacob Smith,70,Female,57743,Premium,1941.26,7,4,39,111,No,Debit Card,Lanestad,South Carolina,0
+684,Guy Hernandez,44,Male,73546,Silver,192.43,5,4,40,231,No,Cash,Robertsport,Indiana,0
+685,Kyle Wilson,61,Female,31237,Basic,2370.96,14,6,45,204,No,Net Banking,Catherineburgh,Georgia,0
+686,Tara Edwards,65,Female,29575,Basic,2807.15,1,6,16,242,Yes,Credit Card,Josephland,Idaho,0
+687,Danny Robinson,34,Female,59650,Premium,3372.75,3,9,3,298,Yes,Cash,Cherryside,Nebraska,1
+688,Rachel Osborne,49,Female,135067,Premium,703.0,6,9,28,73,No,Credit Card,Kristachester,Utah,0
+689,Robert Townsend,26,Female,134252,Gold,3751.73,15,7,19,135,No,Cash,Jacquelineshire,Michigan,0
+690,Parker Hall,38,Female,137004,Silver,1611.94,8,3,36,337,No,Credit Card,Port Jeremy,Wyoming,0
+691,Mr. Daniel Gallagher PhD,30,Male,27152,Silver,956.55,8,5,11,362,Yes,Net Banking,East Jessicaborough,South Dakota,0
+692,Tracy Brady,20,Female,66729,Premium,2315.91,2,3,8,179,No,Debit Card,West Veronica,Kansas,1
+693,Daryl Gray,28,Female,93825,Silver,2938.56,1,9,50,293,Yes,Debit Card,Rossberg,Minnesota,1
+694,Kathy Mitchell,67,Female,108723,Basic,4442.47,1,5,44,349,No,Cash,Lake Kelsey,New Mexico,1
+695,Vanessa Fowler,24,Female,40155,Basic,451.26,14,8,30,322,Yes,UPI,North Karenland,North Dakota,0
+696,Emily Stewart,20,Female,62587,Silver,1096.27,1,5,21,29,No,Credit Card,Nathanchester,Florida,0
+697,Rachael Johnson,43,Female,43332,Silver,4826.99,14,7,6,11,Yes,Net Banking,North Jessica,Utah,0
+698,Phillip Powell,67,Female,57347,Silver,646.98,8,7,48,159,Yes,UPI,Meganside,West Virginia,0
+699,Brian Calhoun,60,Male,129058,Gold,2587.63,8,8,25,244,No,Credit Card,East Alec,Maine,1
+700,Mr. Roger Carrillo,66,Female,126298,Gold,3088.65,7,7,6,21,No,Debit Card,Sheriburgh,Wyoming,0
+701,Erica Villanueva,59,Male,141984,Premium,2660.03,11,9,6,149,Yes,Net Banking,Dawsonfurt,Maryland,0
+702,Denise Richards,37,Male,148999,Silver,3437.35,5,4,34,219,Yes,Cash,Alexview,Iowa,1
+703,Christina Brandt,22,Male,87294,Basic,2577.73,7,2,30,339,No,UPI,Port Stephaniestad,Minnesota,0
+704,Jacob Dennis,34,Male,120748,Basic,613.98,11,8,12,94,Yes,Credit Card,Ashleyland,Hawaii,0
+705,Melissa Woods MD,44,Female,61149,Premium,3798.9,8,10,17,175,Yes,Debit Card,Craigstad,Tennessee,0
+706,Jack Soto,29,Male,117914,Gold,4364.5,2,7,35,10,Yes,Credit Card,Chapmanshire,Colorado,1
+707,Pamela Webster,28,Female,80314,Premium,4350.46,12,10,47,250,No,Net Banking,Aaronmouth,Alabama,0
+708,Rebecca Rodriguez,69,Female,31486,Silver,718.81,4,2,2,357,Yes,Debit Card,Port Karenside,South Dakota,0
+709,Roger Perez,48,Male,105162,Silver,2207.15,11,9,13,45,No,Debit Card,Carolyntown,Missouri,0
+710,Jacob Garcia,48,Female,22859,Basic,872.22,3,8,32,242,No,Cash,Port Philip,Vermont,1
+711,Sara Hopkins,33,Male,58644,Premium,302.06,1,2,41,222,No,Cash,South Lucas,North Dakota,0
+712,Steven Lane,56,Female,24851,Premium,2028.42,9,10,47,314,No,Debit Card,East Maryview,Hawaii,0
+713,Christina Newman,63,Male,89246,Basic,2138.92,6,9,5,138,No,Net Banking,Lake Johnathan,Louisiana,0
+714,Robert Gray,25,Female,101618,Gold,2269.21,7,1,11,148,No,UPI,Kimberlyfurt,Mississippi,0
+715,David Parker,46,Male,86536,Silver,2958.91,11,6,39,337,No,Net Banking,Frostland,Delaware,0
+716,Sabrina Madden,44,Female,124329,Premium,4008.79,14,3,40,107,Yes,Net Banking,Darrellberg,Montana,1
+717,Laura Kidd,26,Male,46146,Silver,3048.46,2,7,32,156,Yes,Credit Card,North Daniellestad,Missouri,0
+718,Scott Jenkins,40,Female,66798,Silver,914.84,14,9,3,33,Yes,Cash,North Paul,New Hampshire,0
+719,Christopher Ruiz,32,Male,93660,Silver,2457.51,6,6,50,24,No,Debit Card,Lake Angela,Washington,0
+720,Jeffrey York,62,Male,112589,Basic,4636.83,8,8,49,57,Yes,Cash,West Ericbury,Maine,0
+721,Carly Jackson,20,Male,41895,Basic,4360.8,15,6,11,150,No,Credit Card,South Donaldtown,California,0
+722,Dennis Butler,27,Female,63857,Silver,658.77,4,8,27,4,No,UPI,East Kathrynchester,Georgia,0
+723,Thomas Rivera,36,Male,31171,Gold,1893.56,13,7,24,323,Yes,Cash,Alexanderport,Virginia,0
+724,Joshua Brown,44,Male,38087,Premium,2096.38,7,8,34,350,Yes,Net Banking,Lake Daniel,Georgia,0
+725,Barbara Peterson,27,Male,114060,Basic,469.65,6,7,50,85,No,Credit Card,Ponceport,Vermont,0
+726,William Bishop,60,Male,138293,Basic,4889.78,12,9,19,215,No,UPI,East Mackenzie,Arizona,1
+727,Joshua Vasquez,40,Male,128397,Gold,4506.03,10,3,45,207,Yes,Cash,East Joshuamouth,Missouri,1
+728,Jonathan Richmond,57,Female,111418,Gold,4443.99,13,7,50,102,Yes,Credit Card,Cannonbury,Ohio,0
+729,Ryan Hester,52,Female,71117,Silver,2626.33,9,5,14,48,No,Cash,Lynnstad,Nevada,0
+730,Mason Stephenson,39,Male,23069,Basic,4457.08,9,10,17,124,No,Net Banking,Rodriguezland,Georgia,0
+731,Natalie Lewis,50,Male,115942,Basic,4215.84,5,9,23,64,Yes,Net Banking,South Veronicaside,Nevada,1
+732,Diamond Davies,37,Male,79394,Gold,4915.61,13,10,37,322,Yes,UPI,Phillipborough,Hawaii,0
+733,Sara Park,37,Female,107414,Silver,3586.04,9,4,7,168,Yes,UPI,Kimberlyfurt,Minnesota,0
+734,Courtney English,47,Male,39209,Premium,4150.77,2,2,4,218,No,Debit Card,Olsonberg,Michigan,0
+735,Lindsey Powers,46,Male,68404,Premium,2961.79,9,7,17,300,No,Net Banking,Lake Crystalhaven,Mississippi,0
+736,Dorothy Murphy,62,Female,115907,Premium,4127.87,3,9,9,249,Yes,Cash,West Mariah,Oklahoma,0
+737,James Freeman,51,Male,111025,Silver,2304.39,1,3,36,190,Yes,Cash,Elizabethburgh,Alabama,0
+738,Melanie Martinez,44,Male,35842,Gold,2880.24,1,9,10,61,No,UPI,New Bryce,Illinois,0
+739,Andrea Morrison,36,Female,23667,Silver,753.59,10,7,4,157,Yes,Debit Card,Pierceview,North Dakota,0
+740,Amy Jennings,70,Female,20273,Basic,2760.31,2,1,27,247,No,UPI,Brownport,Connecticut,1
+741,Gabriel Johnston,68,Female,82289,Silver,3821.66,9,8,49,231,Yes,UPI,Shannonview,Nebraska,0
+742,Traci Matthews,23,Female,70755,Silver,4506.21,6,9,3,344,No,Credit Card,Port Stephen,New Hampshire,0
+743,Megan Gordon,28,Male,94972,Gold,2827.17,2,9,6,99,Yes,Cash,Wendyberg,Arkansas,0
+744,Amber Wade,51,Male,118377,Premium,2538.06,1,2,43,273,Yes,UPI,Port Tamarabury,Florida,1
+745,Stanley Tran,68,Male,52150,Premium,469.01,9,10,21,206,No,Credit Card,East Adam,Connecticut,0
+746,Savannah Johnson,39,Female,43659,Premium,169.08,9,6,25,132,Yes,Cash,Kimberlyside,North Dakota,1
+747,Larry Ortega,28,Female,38878,Silver,1314.99,2,3,20,209,Yes,Cash,North Anthony,Indiana,0
+748,Brian Campbell,38,Male,23561,Basic,1525.22,2,6,10,212,No,Net Banking,Lake Jeffreytown,Iowa,0
+749,Kevin Davis,70,Male,26799,Silver,1236.13,10,10,16,253,No,Credit Card,West Ashley,Wyoming,0
+750,Melissa Patterson,35,Male,61724,Premium,2787.95,2,8,2,209,Yes,UPI,Garymouth,Rhode Island,0
+751,Sandy Jones,53,Male,52285,Silver,1557.83,7,8,6,326,Yes,UPI,Reyesberg,Oklahoma,0
+752,Victoria Burns,52,Male,122501,Silver,2710.8,7,9,29,22,No,Cash,Codyland,Missouri,1
+753,Charles Miller,36,Male,20071,Basic,4670.86,8,5,39,129,No,UPI,Port Jeremyside,Kentucky,0
+754,Randall Stanley,58,Male,96697,Gold,275.15,12,9,37,36,No,Credit Card,South Jose,Idaho,0
+755,Scott Ray,26,Female,135117,Premium,1093.71,9,6,44,176,No,UPI,Amymouth,New York,0
+756,Randy Rhodes,33,Female,64778,Silver,2326.01,10,6,2,355,Yes,Cash,Ryanview,Kansas,1
+757,Eric Medina,48,Male,138154,Basic,3379.9,7,9,45,361,No,Cash,East Patrick,New Hampshire,1
+758,Michael Martinez,23,Male,90601,Basic,4468.23,14,8,44,64,No,Cash,New Amandaberg,South Dakota,0
+759,Christopher Mejia,40,Female,43224,Basic,667.58,6,4,29,5,Yes,UPI,Lake Maryland,Hawaii,1
+760,Tabitha Aguilar,61,Female,45101,Basic,4090.59,11,5,46,114,No,UPI,Sheriville,Ohio,1
+761,Mitchell Trevino,20,Female,84597,Silver,85.32,14,7,8,143,No,Debit Card,South Melaniebury,Georgia,0
+762,Kenneth Gomez,53,Male,106486,Silver,373.54,3,2,9,133,Yes,Cash,West Jacob,Kansas,0
+763,Kyle Mcclain,64,Female,45146,Basic,4960.16,12,9,40,130,No,Credit Card,Patriciaside,Washington,0
+764,Traci Blair,45,Male,131917,Gold,2191.11,7,5,8,349,No,UPI,Garrettshire,Michigan,0
+765,Justin Reeves,51,Male,135841,Silver,282.48,15,7,35,230,No,Debit Card,Port Shannonfort,Montana,0
+766,Mary Brooks,39,Male,135356,Basic,4951.81,4,7,5,128,No,UPI,Cunninghamport,North Dakota,1
+767,Brittney Nelson,22,Male,23653,Premium,2188.15,1,10,41,172,Yes,Credit Card,Davisshire,Oklahoma,0
+768,Garrett Sanchez,48,Male,145672,Gold,4170.96,14,6,34,122,No,Credit Card,Dianaberg,Missouri,0
+769,William Hickman,58,Female,95882,Basic,473.4,1,1,25,161,Yes,Debit Card,Jacquelineport,New Hampshire,0
+770,Jason Gilbert,21,Female,27181,Gold,3073.16,7,2,7,347,Yes,UPI,New Matthew,Texas,1
+771,James Morgan,42,Female,32560,Premium,1203.9,10,10,1,233,No,Cash,Port Joseph,Hawaii,0
+772,James Lindsey,57,Male,64514,Basic,2297.68,6,10,13,56,Yes,Cash,South Travisshire,California,1
+773,Antonio Fitzpatrick,68,Male,138537,Silver,3204.95,5,6,27,247,No,Debit Card,Carlamouth,New Jersey,0
+774,Danielle Arnold,33,Male,124467,Basic,349.43,5,10,28,263,No,UPI,New Jennifermouth,Maryland,0
+775,Joanna Smith DVM,55,Male,39321,Premium,1577.94,6,5,24,5,Yes,Credit Card,Bakermouth,Maine,0
+776,Jacob Young,33,Male,75320,Gold,1017.27,4,4,5,175,No,Net Banking,North Thomas,Rhode Island,1
+777,Kimberly Evans,56,Female,131674,Gold,3099.71,7,6,11,54,Yes,Net Banking,Sarahton,Delaware,0
+778,Krystal Foster,32,Male,103724,Silver,3481.44,8,10,14,123,No,Net Banking,Hensonfort,South Carolina,0
+779,Evan Greene,31,Female,44149,Basic,1845.94,2,6,2,285,No,Net Banking,Hallshire,Iowa,1
+780,Heather Armstrong,30,Female,25754,Basic,1035.66,5,3,15,135,No,Cash,Angelachester,Washington,0
+781,Leonard Case,33,Male,45688,Basic,921.58,5,2,2,347,Yes,UPI,North Ashleymouth,Georgia,1
+782,Chelsea Lopez,31,Female,79795,Silver,1879.72,6,3,34,320,Yes,Credit Card,East Zacharyfort,Tennessee,0
+783,Brian Hodges,27,Male,124188,Silver,998.82,7,6,21,307,Yes,Credit Card,Jesseberg,Mississippi,0
+784,Amber Savage,66,Male,131992,Gold,3958.46,6,4,4,323,Yes,Cash,North Erinstad,Mississippi,0
+785,Michael Carney,55,Female,47425,Basic,3934.09,13,10,5,86,No,Net Banking,Shawnton,West Virginia,0
+786,Kristina Woods,51,Female,43461,Gold,3576.81,9,8,46,254,No,Cash,Morrisburgh,Arizona,0
+787,Amanda Beck,59,Male,47158,Silver,4479.68,8,4,26,112,No,Cash,North Jeffrey,Alabama,0
+788,Randall Price,28,Female,53361,Basic,714.94,2,5,29,266,Yes,Net Banking,Brownberg,Virginia,1
+789,Kristina Alexander,50,Female,75850,Premium,2364.38,7,6,32,163,Yes,Debit Card,Lake Michaelshire,Indiana,0
+790,Michael Prince,46,Male,54815,Basic,1827.51,2,5,33,263,Yes,UPI,Jacksonside,Alaska,0
+791,Cynthia Medina,32,Male,35543,Basic,1833.17,9,4,22,101,No,UPI,North Jessica,Alaska,0
+792,Melissa Johnson,65,Female,44987,Silver,4992.11,13,9,17,5,No,UPI,South John,Pennsylvania,0
+793,Laura Taylor,68,Female,143969,Premium,4118.21,13,1,31,335,Yes,Net Banking,Warrenland,Missouri,0
+794,Kevin Anderson,32,Male,114809,Silver,2398.47,9,10,36,240,No,UPI,South Kevin,Indiana,0
+795,Carl Young,68,Male,61035,Silver,2172.53,12,7,14,225,Yes,UPI,South Monicafurt,Pennsylvania,0
+796,James Hall,26,Male,60051,Basic,2524.01,11,6,22,116,No,Cash,Lake Cindychester,Arkansas,0
+797,Jill Lopez,37,Female,96933,Basic,2859.51,1,3,10,170,No,Net Banking,South Madisonside,Virginia,0
+798,Daniel Hammond,31,Female,28350,Premium,982.28,2,6,37,232,No,Credit Card,West Sarah,New Jersey,0
+799,George Lang,28,Male,108458,Silver,208.69,12,10,32,14,Yes,Net Banking,Tammybury,Minnesota,0
+800,Robert Romero,36,Male,50544,Gold,3314.87,2,8,4,189,Yes,UPI,South Austin,Arizona,0
+801,John Gonzalez,44,Female,40582,Basic,689.23,7,8,48,36,Yes,Debit Card,Wolfview,Louisiana,0
+802,Suzanne Young,31,Female,76649,Premium,835.97,10,5,38,104,No,UPI,Lake Martin,Maine,0
+803,Richard Vega,30,Male,149903,Silver,2256.37,14,7,39,127,No,Net Banking,Nolanstad,Illinois,0
+804,Paul Williams,47,Male,116638,Basic,1475.16,15,8,23,359,No,Net Banking,Lisaberg,Wisconsin,0
+805,Kathryn Travis,57,Male,74401,Silver,938.91,10,7,30,197,Yes,Cash,Brownton,Connecticut,0
+806,Nicholas Gibson,24,Female,111572,Basic,1236.49,14,3,18,322,Yes,Debit Card,Byrdfort,Maine,1
+807,Brittany Murphy,49,Female,119858,Basic,4976.82,2,2,33,167,Yes,UPI,Ashleyland,Delaware,1
+808,Sergio Jenkins,31,Male,80577,Basic,412.32,12,8,25,176,Yes,Net Banking,Williamsland,South Carolina,0
+809,Carrie Chapman,20,Male,52847,Basic,3560.04,3,6,43,238,Yes,Credit Card,Meganhaven,New Hampshire,1
+810,Lisa Clark,53,Male,113530,Premium,744.27,14,5,11,88,Yes,Debit Card,East William,Minnesota,0
+811,Louis Townsend,36,Male,90078,Premium,883.84,11,1,44,140,No,Debit Card,Heathtown,Oklahoma,1
+812,Paul Moon,31,Male,137006,Silver,2238.19,1,9,42,340,Yes,Net Banking,Anthonyville,Oregon,0
+813,Christina Stone,62,Female,78194,Basic,3011.12,1,7,50,104,No,Debit Card,Lake Kevin,Hawaii,0
+814,Luis Payne,30,Male,22102,Premium,188.32,1,6,13,349,Yes,Credit Card,Riddlehaven,Vermont,0
+815,Jeremy Carlson,69,Male,114897,Silver,267.86,9,2,21,166,Yes,Cash,Johnsonberg,New Hampshire,0
+816,Daniel Rogers,31,Female,143066,Premium,647.98,4,2,23,166,No,UPI,Rodriguezberg,Georgia,1
+817,Jamie King,18,Female,47887,Premium,1139.48,11,5,42,320,Yes,Debit Card,Patrickfurt,Georgia,0
+818,Brandi Saunders,44,Female,120603,Premium,4916.36,2,9,37,88,Yes,Cash,East Patriciafort,Florida,0
+819,Megan Cook,38,Female,108853,Silver,1693.63,11,6,43,247,Yes,Cash,West Paulfurt,Arkansas,1
+820,Shannon Sharp,55,Female,70118,Silver,2541.93,12,1,15,11,Yes,UPI,West Donald,New Jersey,0
+821,Jennifer Green,33,Female,119253,Silver,3117.84,1,3,24,256,Yes,Net Banking,Port Brian,Texas,1
+822,David Flores,31,Male,51203,Premium,3709.32,6,3,18,163,Yes,Cash,Lake Amy,Oregon,0
+823,Stephanie Roth,68,Female,104940,Gold,3765.23,4,6,22,125,Yes,Debit Card,Stoneside,Wisconsin,0
+824,Peter Vance,69,Male,99700,Premium,2631.29,3,8,41,4,No,Credit Card,Baileyfurt,Arizona,1
+825,Heather White,30,Male,103147,Silver,4694.46,3,2,12,304,Yes,Debit Card,Campbellchester,West Virginia,0
+826,Nicole Hall DDS,50,Male,75868,Premium,1591.74,12,4,16,218,Yes,UPI,Whitemouth,Montana,1
+827,Danielle Freeman,36,Female,146841,Silver,1395.71,13,8,6,185,Yes,Net Banking,North Kathleen,Arizona,0
+828,Ms. Shirley Mcdonald MD,46,Female,86229,Premium,3813.61,14,8,2,196,Yes,UPI,Lake Phillip,Maine,0
+829,Dr. Kelly Bowman,56,Male,92463,Silver,1323.59,8,5,30,146,No,Credit Card,West Christinaville,Tennessee,0
+830,Cynthia Mccoy,39,Male,113698,Premium,1018.79,15,4,1,7,No,Net Banking,North Brendanmouth,North Carolina,0
+831,Tyler Medina,43,Female,143245,Premium,4853.94,6,7,32,158,Yes,Net Banking,Holmesstad,Georgia,0
+832,Teresa White,20,Male,70439,Silver,1011.43,7,5,50,179,No,UPI,West Jonathantown,Connecticut,0
+833,Shannon Taylor,62,Male,105315,Premium,4636.27,12,4,16,245,No,Credit Card,Lauraton,North Carolina,1
+834,Eric Norton,62,Male,54253,Premium,4724.11,3,5,16,309,Yes,Credit Card,New Reneetown,Oregon,0
+835,Donna Gomez,25,Male,104462,Premium,2018.45,10,2,34,97,Yes,Net Banking,Walkerview,Colorado,0
+836,Mr. Bryan Jacobs MD,34,Female,85620,Premium,2951.09,12,7,49,46,No,Debit Card,Benjaminhaven,Texas,0
+837,Nathan Hernandez,35,Male,141899,Premium,3510.09,1,3,32,1,No,Cash,Alexanderside,North Carolina,1
+838,Mallory Brown,44,Female,116081,Premium,894.64,6,3,46,69,Yes,Cash,West Courtney,Louisiana,1
+839,Connie Mccoy,25,Female,94329,Silver,968.91,1,3,49,99,No,Net Banking,Jessicaburgh,Tennessee,1
+840,Jennifer Smith,58,Male,133817,Silver,445.06,2,7,8,142,Yes,Cash,New Kaitlinville,Arizona,1
+841,Michelle Dudley,33,Female,83595,Basic,97.06,5,1,43,299,Yes,Credit Card,East Lukeview,South Dakota,0
+842,Melissa Lee,31,Male,69239,Gold,4664.04,8,6,39,220,No,UPI,Watsonstad,Wisconsin,0
+843,William Knight,70,Male,143337,Gold,3342.14,7,10,4,183,Yes,Credit Card,Port Mitchellstad,Pennsylvania,0
+844,Michelle Allison,47,Female,115056,Silver,177.12,2,9,18,359,Yes,UPI,New Alejandro,New Jersey,0
+845,Andrew Johnson,46,Female,87490,Premium,3318.13,1,6,2,325,Yes,UPI,Matthewburgh,Michigan,0
+846,Jonathan Anthony,61,Female,50612,Premium,2030.82,10,2,23,220,No,Credit Card,Port Danny,Kentucky,0
+847,Kenneth Martin,64,Female,58517,Silver,3574.11,14,9,37,259,No,Credit Card,New Thomasfurt,Tennessee,1
+848,Christopher Weeks,37,Female,42027,Premium,4777.5,8,9,16,125,Yes,Credit Card,West Theodore,Nebraska,0
+849,Thomas Atkinson,45,Male,41002,Gold,4518.11,13,5,15,132,Yes,Debit Card,Port Stephenmouth,Delaware,0
+850,Kathleen Strickland,52,Female,31854,Gold,4366.11,15,10,50,308,No,Net Banking,North Jasonberg,North Dakota,1
+851,Nicole Bowers,63,Female,105710,Premium,4051.82,4,5,8,149,Yes,UPI,East Alexis,Texas,1
+852,Jerry Thomas,65,Male,117598,Basic,2885.55,3,6,25,296,No,Credit Card,Loriburgh,Massachusetts,0
+853,Amber Black,55,Male,131033,Premium,4900.26,6,6,44,65,Yes,Credit Card,Justinchester,Florida,0
+854,Linda Casey,43,Male,90555,Premium,1613.83,14,5,15,256,Yes,Cash,New Timport,Delaware,0
+855,Robert Pacheco,36,Male,117918,Basic,3014.46,5,9,45,64,No,Debit Card,Carterchester,Hawaii,1
+856,Erin Casey,49,Female,112293,Premium,341.12,13,6,10,108,Yes,Credit Card,Nicholaston,New Hampshire,0
+857,Stephanie Collins,67,Male,132299,Premium,3650.61,5,3,2,281,No,Net Banking,South Jonathanstad,Nevada,1
+858,Troy Thomas,40,Female,71257,Basic,2662.83,5,5,45,100,No,Credit Card,Lake Paulmouth,Alabama,0
+859,Heather Gill,26,Female,118601,Basic,4256.56,12,5,30,336,Yes,Net Banking,Lake Stephanie,Nebraska,1
+860,Hector Lopez,62,Female,58152,Silver,1088.34,13,4,48,334,Yes,Debit Card,Kleintown,California,1
+861,Jessica Smith,42,Female,109056,Silver,4633.63,2,6,31,92,Yes,Cash,Martinberg,Oklahoma,0
+862,Cory Mathis,59,Female,97777,Premium,4850.15,11,7,16,18,No,Net Banking,Theresaside,Minnesota,0
+863,Angela Walker,37,Male,105563,Premium,3890.46,13,2,50,238,No,UPI,Fergusonburgh,Texas,0
+864,Lynn Smith MD,58,Female,68145,Basic,644.0,2,2,32,329,Yes,Credit Card,East Janeville,New Hampshire,1
+865,Emily King,55,Female,55877,Basic,3982.0,3,7,31,331,No,Cash,South Christopher,South Dakota,0
+866,Phillip Campbell,26,Male,62628,Basic,3583.15,14,9,12,208,Yes,Net Banking,Rodriguezside,Illinois,0
+867,Ryan Johnson,53,Female,28379,Basic,3779.87,4,2,12,307,Yes,Cash,Port Jayshire,Pennsylvania,1
+868,Henry Alexander,46,Female,36127,Basic,687.64,4,3,6,288,Yes,Credit Card,West Emilyton,Connecticut,1
+869,Danielle Esparza,25,Female,67652,Silver,2144.1,11,1,16,154,No,Cash,Jenniferfort,South Carolina,1
+870,Elizabeth Pope,46,Male,95637,Premium,3490.75,9,6,39,276,Yes,Credit Card,Jacquelineberg,Arkansas,0
+871,Jimmy Dixon,33,Male,44651,Silver,1533.56,14,4,9,309,No,UPI,Acevedomouth,Nevada,0
+872,Seth Wilson,26,Female,29746,Gold,1340.34,11,3,26,234,No,Net Banking,Port Brentview,Ohio,1
+873,Chelsea Gomez,62,Male,90242,Silver,399.26,12,5,41,357,No,Cash,East Stephanieburgh,Wisconsin,0
+874,Troy Ford,60,Male,75009,Silver,1615.98,13,7,25,14,Yes,Credit Card,North Deborah,California,0
+875,Elizabeth Padilla,35,Male,89660,Basic,3435.7,7,2,22,328,No,UPI,Paulaberg,New Mexico,1
+876,Brandi Frank,27,Male,55867,Basic,534.84,4,7,7,64,No,Cash,Pierceburgh,North Dakota,1
+877,Robert Ruiz,70,Female,32522,Gold,3517.25,14,5,36,139,Yes,Debit Card,Charlestown,Washington,0
+878,Patricia Davis,38,Female,43681,Gold,4040.12,11,9,36,305,No,Net Banking,Port Caitlin,Louisiana,0
+879,Jordan Velasquez,55,Male,53955,Basic,3448.96,12,3,43,65,No,Credit Card,Bakerland,Florida,1
+880,Larry Kim,64,Female,112733,Silver,3407.17,7,8,12,225,No,Cash,Port Kellyfort,Alaska,0
+881,Wesley Richardson,36,Female,144861,Premium,2626.94,12,4,20,326,No,Net Banking,Williamside,South Dakota,0
+882,Lynn Daugherty,67,Female,130788,Basic,3191.65,2,4,6,85,Yes,UPI,West Michaelfurt,South Dakota,0
+883,Mark Underwood,53,Female,125951,Basic,4812.72,7,9,47,70,Yes,Net Banking,New David,Connecticut,0
+884,Daniel Brown,18,Male,139391,Basic,3585.09,12,9,48,177,Yes,Cash,Karenfort,Indiana,1
+885,Lindsey Ellis,46,Male,108410,Silver,915.33,6,3,33,181,No,Net Banking,Brianbury,Oregon,0
+886,Taylor Martin,42,Male,68927,Basic,1722.9,11,4,35,61,No,UPI,Lopezport,Tennessee,1
+887,Michelle Rodriguez,34,Male,20292,Premium,1126.44,5,9,3,238,No,Credit Card,New Nathanmouth,Montana,0
+888,Courtney Butler,40,Male,100678,Premium,1676.33,6,2,1,180,Yes,Net Banking,Garciaberg,Oregon,0
+889,Donna Reyes,40,Male,33282,Premium,2485.63,2,9,33,79,No,Credit Card,Smithfurt,Wisconsin,0
+890,John Estrada,27,Female,49634,Premium,2007.03,5,6,28,94,No,Credit Card,Port Samuel,Pennsylvania,0
+891,Johnny Lee,46,Female,41211,Silver,1801.0,7,1,23,364,Yes,UPI,Michelletown,Vermont,1
+892,Carlos Hammond,20,Male,71713,Premium,3732.42,15,1,11,342,No,UPI,Port Cindy,Colorado,1
+893,Karen Young,25,Female,84103,Premium,4009.11,12,3,21,205,No,Debit Card,Lake Oscarfort,Arizona,0
+894,Angela Booker,25,Male,123902,Basic,674.31,6,9,1,351,No,Net Banking,Marcusshire,Oklahoma,1
+895,Jonathan Cameron,56,Male,76928,Premium,1482.86,8,2,49,220,Yes,Cash,Lake Seanshire,Nebraska,1
+896,Grace Lewis,29,Male,56849,Basic,4327.63,12,4,43,220,Yes,Cash,North Scott,North Carolina,1
+897,Kelsey Johnson,57,Male,44729,Silver,1185.45,3,7,3,141,Yes,Net Banking,North Geraldport,Minnesota,0
+898,Susan Holland,19,Male,31919,Basic,1932.75,9,5,45,325,Yes,UPI,New Sandraview,Oklahoma,0
+899,Christopher Miller MD,45,Female,28041,Premium,3237.17,5,2,18,187,No,Net Banking,Harrisburgh,New Hampshire,1
+900,Robert Pope,33,Female,137323,Basic,949.67,1,1,43,165,No,UPI,Nolanville,Oklahoma,1
+901,Christopher Guzman,56,Male,76479,Silver,1298.7,8,6,22,156,Yes,Cash,Destinyview,Delaware,0
+902,Priscilla Nash,67,Male,63412,Gold,3719.4,6,10,34,310,No,Debit Card,Simmonsborough,Nevada,0
+903,Theresa Mack,55,Female,31433,Basic,695.9,12,10,8,22,Yes,Debit Card,East Douglasborough,Michigan,0
+904,Stephen Brown,63,Female,141307,Basic,420.65,9,10,22,155,Yes,Cash,North Karen,Colorado,0
+905,Nicole Bush,64,Male,25742,Silver,998.95,9,5,49,287,No,Net Banking,New Danielland,Arizona,0
+906,Yvonne Williams,58,Male,139386,Premium,385.16,7,9,33,12,No,Debit Card,Gibsonside,Nevada,0
+907,Jacob Meadows,36,Male,145279,Basic,3982.23,12,4,48,204,Yes,Debit Card,Greenfort,New Mexico,1
+908,Brandi Short,46,Female,93727,Premium,2034.2,5,4,12,2,Yes,Cash,New Davidchester,West Virginia,1
+909,Matthew Velasquez,62,Male,135232,Premium,2543.9,12,9,17,156,No,UPI,Whiteshire,Ohio,0
+910,Lauren Ward,53,Male,42427,Silver,275.78,4,5,3,328,No,Debit Card,Hayesstad,Illinois,1
+911,Julie Carr,35,Male,104202,Silver,4948.2,4,9,8,1,No,UPI,Francofort,West Virginia,0
+912,Johnny Watkins,23,Female,114644,Silver,2071.3,10,5,21,30,Yes,UPI,North Alexander,Missouri,0
+913,Kristen Hensley,32,Female,43165,Gold,4859.44,9,10,7,353,No,Cash,East Robert,Indiana,0
+914,Michelle Edwards,53,Male,127065,Premium,1142.16,5,4,38,323,No,Debit Card,South Tiffany,Georgia,0
+915,Regina Scott,46,Male,115657,Premium,1874.77,15,8,6,254,Yes,Debit Card,Port Christinamouth,North Carolina,1
+916,Debra Hull,30,Female,143647,Silver,3255.44,1,5,11,91,Yes,Credit Card,Jerryshire,Nevada,0
+917,Jerry Haley,27,Male,75888,Silver,2302.37,11,7,7,270,Yes,Cash,New Jason,Louisiana,1
+918,Robert Joseph,24,Female,70330,Basic,594.68,1,1,9,128,No,Debit Card,Port Barry,Texas,0
+919,Shawn Arellano,58,Male,123861,Basic,4790.21,2,9,48,174,Yes,Debit Card,South Jennahaven,Tennessee,0
+920,Candace Brooks,26,Female,119571,Premium,4086.55,5,6,31,80,No,Cash,Lake Martin,Rhode Island,0
+921,Anne Levine,25,Male,128124,Basic,558.94,5,2,33,213,Yes,Credit Card,New Christopher,Connecticut,1
+922,Edward Lopez,32,Female,70512,Silver,1798.88,5,4,44,197,Yes,Net Banking,Thorntonmouth,Maryland,0
+923,Beth Walker,28,Male,49428,Basic,4784.51,5,6,5,316,No,Credit Card,Grahamborough,Nebraska,1
+924,Christina Gray,20,Male,43339,Premium,2675.88,10,3,44,218,No,Cash,Popeport,West Virginia,1
+925,Chad Rodriguez,70,Female,65663,Basic,1391.91,8,6,17,365,Yes,Debit Card,Bassview,New York,0
+926,Bailey Mann,67,Male,61976,Silver,1983.47,12,8,5,58,No,Debit Card,Adrianamouth,Florida,0
+927,Jonathan Washington,23,Female,36716,Silver,3849.3,6,6,32,218,No,Cash,North Keithfurt,Kentucky,0
+928,George Cain,68,Female,38116,Silver,1946.77,9,8,35,274,Yes,Net Banking,New Reneebury,Hawaii,0
+929,Natalie Kelly,23,Female,89067,Silver,3530.31,4,6,1,105,Yes,UPI,Lake Charles,Minnesota,0
+930,Samantha Wheeler,53,Female,145516,Silver,4608.48,1,6,24,72,Yes,Cash,West Lisa,Iowa,0
+931,Kimberly Holt,44,Male,47621,Silver,326.54,3,2,45,361,Yes,Net Banking,Conwayton,New Jersey,1
+932,Rachael Odonnell,41,Male,111934,Basic,3330.6,2,8,39,81,No,Debit Card,North Brittany,Texas,1
+933,Paul Brown,23,Male,30101,Basic,2867.46,14,7,10,94,Yes,Cash,Smithhaven,Montana,0
+934,Wendy Hernandez,62,Female,81628,Premium,3626.66,8,1,19,57,Yes,Cash,Nelsonview,Virginia,1
+935,Melanie Ward,66,Male,85967,Silver,103.79,14,7,44,233,No,Cash,West Mary,Illinois,0
+936,Mary Chavez,50,Female,112976,Silver,2147.17,3,5,6,268,Yes,Debit Card,Patriciaville,West Virginia,0
+937,Jack Wilkerson,43,Male,48692,Premium,959.28,12,9,39,40,No,Net Banking,Bakerborough,Kansas,0
+938,Mary Cunningham,38,Female,128429,Premium,865.88,13,6,42,218,Yes,Credit Card,West Diana,Kentucky,1
+939,Sara Sanders,22,Female,99061,Gold,188.84,5,3,35,55,Yes,UPI,Gomezchester,South Carolina,1
+940,Heather Anderson,30,Male,103674,Basic,1239.66,2,10,37,23,No,Credit Card,Terrancestad,New Jersey,0
+941,Jason White,21,Female,32217,Gold,91.97,6,5,26,257,No,UPI,West Jocelynmouth,Oklahoma,1
+942,Rebecca Cruz,26,Male,63426,Premium,4487.73,9,2,33,77,No,Net Banking,New Elizabethland,New Jersey,1
+943,Randy White,55,Male,58026,Silver,800.11,8,2,41,48,Yes,Debit Card,Smithland,Nebraska,0
+944,Katelyn Ruiz,69,Male,120771,Silver,4967.41,9,9,47,312,No,Net Banking,Port Jamieville,Maine,0
+945,Kelsey Bauer DVM,68,Male,64436,Gold,1833.57,14,7,3,365,No,Debit Card,Kerrbury,Kansas,0
+946,Gary Garcia,31,Male,145569,Silver,2856.16,8,2,1,74,No,Cash,Juliefort,Oklahoma,0
+947,Nancy Elliott,69,Male,85393,Basic,2301.3,3,5,11,35,No,UPI,New Jasmineland,Washington,1
+948,Barbara Delgado,23,Male,43486,Premium,1326.82,8,5,49,227,Yes,Credit Card,North Scottchester,Florida,0
+949,Lauren Lopez,54,Female,25189,Gold,4302.07,7,7,40,349,No,Cash,Millschester,Oklahoma,1
+950,Wayne Vasquez,57,Female,68979,Basic,3426.89,9,8,17,350,Yes,Debit Card,Barryfort,Minnesota,1
+951,Dr. Stanley Johnson,62,Male,40258,Basic,1488.77,3,10,26,38,No,Credit Card,Robertville,Missouri,1
+952,Brandon Powell,40,Female,81405,Premium,590.14,3,2,26,222,No,Credit Card,East Sheilaborough,Utah,1
+953,James Baker,38,Female,99215,Premium,1102.54,12,8,8,143,Yes,Net Banking,South Michelle,Maryland,0
+954,Jennifer Foster,27,Male,61967,Basic,4939.66,13,7,4,186,No,Debit Card,South Kelliton,Arizona,0
+955,James Weaver,21,Male,133773,Basic,4765.59,11,7,18,130,Yes,Debit Card,Lake Kennethfort,Connecticut,0
+956,Kelly Contreras,22,Female,73093,Basic,1526.77,12,8,27,269,No,Debit Card,Susanberg,Hawaii,1
+957,Donna Holland,21,Male,137303,Premium,1742.99,13,5,11,102,No,Net Banking,South Kimberlymouth,Michigan,0
+958,Jaclyn Taylor,48,Male,146561,Premium,1805.73,12,10,25,6,Yes,Credit Card,East Sharonview,Maryland,0
+959,Michael Patel,64,Male,62432,Gold,120.22,15,8,10,256,Yes,Net Banking,Mitchelltown,Vermont,0
+960,Eric Morris,34,Male,149530,Premium,4719.45,14,3,41,231,Yes,Credit Card,West Steven,Ohio,0
+961,Judy Aguilar,31,Male,75073,Silver,3024.67,4,6,14,98,Yes,UPI,Victoriaton,Wisconsin,0
+962,Roberta Walker,70,Female,22122,Gold,4488.44,9,2,45,256,No,Net Banking,Lake Christopher,Rhode Island,0
+963,Keith Dorsey,44,Female,66165,Premium,2639.69,13,6,8,91,No,Debit Card,New Samuel,Ohio,0
+964,Hector Walsh,53,Male,91141,Premium,1938.74,14,7,41,146,Yes,Credit Card,East Lauraport,Connecticut,0
+965,Sandra Murphy,69,Male,31749,Basic,3100.49,7,2,32,320,Yes,Net Banking,Chadborough,Indiana,0
+966,Larry Fowler,50,Male,107518,Gold,4265.94,4,4,50,233,Yes,Debit Card,Aaronborough,Georgia,0
+967,Ana Johnson,48,Male,65955,Premium,2094.03,14,7,1,192,No,UPI,Amandaside,Washington,0
+968,Casey Schmidt,60,Female,60291,Premium,3382.84,1,7,3,8,No,Cash,Jacquelineville,Ohio,1
+969,Shirley Andrews,70,Female,63920,Silver,4797.84,7,4,36,201,No,Credit Card,Mayschester,Oregon,1
+970,Adam Ramsey,69,Female,36891,Premium,4887.91,3,7,21,265,Yes,Credit Card,Timothyside,Colorado,1
+971,Matthew Thomas,63,Male,86093,Basic,3175.63,13,7,49,322,Yes,UPI,South Jacqueline,New Hampshire,0
+972,Angela Ward,31,Male,32224,Basic,2215.23,11,10,10,15,Yes,Cash,Judithborough,Wisconsin,0
+973,Kelly Smith,42,Male,117299,Silver,4917.9,11,6,12,123,Yes,UPI,South Debbie,Texas,0
+974,Jodi Wade,30,Male,115199,Premium,3863.44,11,1,18,43,Yes,Cash,Martinburgh,Oregon,0
+975,Amanda Green,24,Male,80178,Basic,580.03,5,5,12,48,No,Debit Card,Nathanfort,Louisiana,1
+976,Jill Hudson,43,Male,84361,Basic,2098.04,8,2,14,352,No,Net Banking,Fosterport,California,1
+977,Tiffany Martinez,69,Male,43567,Gold,100.19,3,10,41,311,Yes,UPI,South Marymouth,Washington,0
+978,Christine Brown,40,Female,100478,Basic,834.02,12,5,8,99,Yes,Cash,South Beth,Montana,0
+979,Ryan Thompson,50,Male,48351,Gold,618.2,4,1,21,71,Yes,UPI,Sonyafurt,Alaska,1
+980,Brett Garcia,35,Female,46114,Basic,1775.34,9,5,30,254,No,Debit Card,Ryanberg,Colorado,1
+981,Theresa Davies,34,Male,45936,Gold,4811.26,2,10,50,301,Yes,Net Banking,West Patriciaview,Connecticut,0
+982,Victor Williams,45,Female,75540,Gold,4088.67,10,2,39,197,No,UPI,South Sharon,Nevada,1
+983,Amy Perry,58,Male,78904,Silver,4452.78,9,5,38,210,No,Net Banking,Wilsonburgh,Tennessee,1
+984,Maria Olson,19,Male,43580,Gold,2175.46,3,6,16,38,No,UPI,Shanestad,Alabama,0
+985,David Brooks,27,Female,36030,Basic,1627.02,1,6,14,239,No,Debit Card,Burgessside,New York,0
+986,Karen Howard,53,Male,70540,Gold,3028.92,9,4,7,288,Yes,Cash,West Laura,Virginia,1
+987,Chad Rose,59,Female,109408,Premium,1623.03,6,4,13,26,No,Credit Card,Herringchester,New Hampshire,0
+988,Joseph Bowen,35,Female,35631,Basic,2291.29,10,6,38,197,Yes,UPI,South Amber,Nevada,1
+989,Sherry Preston,19,Male,139490,Premium,1457.61,14,7,3,274,Yes,UPI,Lisamouth,Minnesota,0
+990,Melissa Roman,59,Male,29103,Premium,520.84,13,7,47,155,No,Net Banking,Jordantown,Indiana,0
+991,Daniel Sullivan,23,Female,84725,Basic,1996.97,12,8,32,329,Yes,UPI,East Caitlin,Michigan,0
+992,Kayla Martin,57,Male,23838,Silver,286.78,1,3,7,166,No,Debit Card,West Ricardoton,Florida,0
+993,James Adams,28,Male,45055,Gold,4089.93,9,1,45,27,Yes,Credit Card,East Monicaland,Idaho,1
+994,William Wilson,21,Female,29835,Gold,1680.18,10,7,18,358,Yes,Cash,East Johnathan,New Jersey,1
+995,Brandy Taylor,47,Male,36552,Gold,4316.38,13,10,27,327,Yes,Cash,Ericberg,Florida,0
+996,Joan Walsh,51,Male,95744,Premium,3323.28,5,6,50,248,No,UPI,Lake Wayneberg,Arkansas,1
+997,Kirsten Rice,63,Male,66269,Silver,3314.43,12,4,45,40,No,Credit Card,Port Jill,Oklahoma,1
+998,Kathleen Higgins,31,Male,107883,Silver,2367.34,7,4,32,54,No,UPI,New Michael,Texas,0
+999,Mrs. Dana Gonzales,63,Female,105890,Silver,4246.64,2,3,15,187,No,Cash,East Tracybury,Vermont,1
+1000,Ann Ramirez,50,Male,122238,Premium,980.37,5,7,11,352,Yes,Debit Card,Jonesstad,North Carolina,0
